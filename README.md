@@ -90,3 +90,52 @@ No CardioIA, isso ajuda a:
 - identificar automaticamente as melhores metas de tratamento para cada paciente,  
 - alertar sobre riscos e adesão ao remédio de forma rápida,  
 - melhorar triagem, prevenção e decisões no sistema de cardiologia.
+
+## Parte 3 – Dados Visuais (Visão Computacional)
+
+Para esta etapa do projeto foram utilizadas imagens de **Eletrocardiograma (ECG)** obtidas a partir de um dataset público de exames cardíacos.
+
+As imagens representam **batimentos cardíacos individuais extraídos de registros de ECG**, permitindo analisar os padrões elétricos do coração por meio de técnicas de **Visão Computacional**.
+
+### Fonte do Dataset
+
+Dataset utilizado:
+https://www.kaggle.com/datasets/erhmrai/ecg-image-data
+
+As imagens foram organizadas em diferentes classes que representam padrões distintos de atividade elétrica cardíaca.
+
+### Classes utilizadas
+
+O conjunto de dados contém as seguintes categorias:
+
+- **N (Normal)** – Batimento cardíaco normal  
+- **S (Supraventricular)** – Batimentos originados acima dos ventrículos  
+- **V (Ventricular)** – Batimentos originados nos ventrículos  
+- **F (Fusion Beat)** – Combinação entre batimento normal e ventricular  
+- **Q (Unknown)** – Batimentos não classificados ou com ruído  
+- **M (Myocardial Infarction)** – Padrões associados ao infarto do miocárdio  
+
+Para garantir diversidade e equilíbrio no conjunto de dados, foram selecionadas **50 imagens de cada classe**, totalizando **300 imagens de ECG** utilizadas no projeto.
+
+### Link para acesso às imagens
+
+As imagens utilizadas neste projeto estão disponíveis no link abaixo:
+
+(https://drive.google.com/drive/folders/1qGjUlAX4pEP6hlwazyKVyHfKU7NDyixx?usp=drive_link)
+
+### Aplicação em Visão Computacional
+
+As imagens de ECG podem ser analisadas por algoritmos de **Visão Computacional** para identificar padrões elétricos cardíacos presentes nas ondas do eletrocardiograma, como:
+
+- **Onda P**
+- **Complexo QRS**
+- **Onda T**
+
+A partir dessas características, modelos de Inteligência Artificial podem ser treinados para:
+
+- detectar arritmias
+- identificar padrões anormais de batimentos
+- classificar diferentes tipos de alterações cardíacas
+- auxiliar no diagnóstico precoce de doenças cardiovasculares
+
+Esse tipo de abordagem tem grande relevância na área da saúde, pois permite desenvolver sistemas capazes de apoiar médicos na análise de exames cardíacos e melhorar a eficiência do diagnóstico clínico.
