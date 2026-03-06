@@ -121,7 +121,7 @@ Para garantir diversidade e equilíbrio no conjunto de dados, foram selecionadas
 
 As imagens utilizadas neste projeto estão disponíveis no link abaixo:
 
-(https://drive.google.com/drive/folders/1qGjUlAX4pEP6hlwazyKVyHfKU7NDyixx?usp=drive_link)
+https://drive.google.com/drive/folders/1qGjUlAX4pEP6hlwazyKVyHfKU7NDyixx?usp=sharing
 
 ### Aplicação em Visão Computacional
 
