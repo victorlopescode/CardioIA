@@ -71,7 +71,7 @@ Essas análises com NLP pegam informações importantes do texto (sintomas, grup
 - melhorar triagem, diagnósticos e alertas automáticos no sistema.
 
 ---
-### 📄Arquivo de texto: Revisão Sistemática sobre a Eficácia de Metas Intensivas do Tratamento Anti-Hipertensivo: Recomendação da Sociedade Brasileira de Cardiologia (SBC)
+### 📄 Arquivo de texto: Revisão Sistemática sobre a Eficácia de Metas Intensivas do Tratamento Anti-Hipertensivo: Recomendação da Sociedade Brasileira de Cardiologia (SBC)
 
 O texto sobre revisão sistemática da SBC será explorado por algoritmos de NLP para:
 
