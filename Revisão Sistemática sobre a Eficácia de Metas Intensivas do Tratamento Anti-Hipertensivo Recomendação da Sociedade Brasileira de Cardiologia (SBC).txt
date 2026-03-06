@@ -1,0 +1,857 @@
+﻿Artigo Original
+
+Revisão Sistemática sobre a Eficácia de Metas Intensivas do 
+Tratamento Anti-Hipertensivo: Recomendação da Sociedade 
+Brasileira de Cardiologia (SBC)
+Systematic Review of the Effectiveness of Intensive Antihypertensive Treatment Goals: Brazilian Society of 
+Cardiology (SBC) Recommendation
+
+Andréa Araujo Brandão,1  Cibele Isaac Saad Rodrigues,2  Luiz Aparecido Bortolotto,3  Leonardo Castro Luna,4  
+
+Bruno Monteiro Barros,4  Mario Fritsch Toros Neves,1  Ana Flávia de Souza Moura,5  Frida Liane Plavnik,6  
+Luciano Ferreira Drager,3  Osni Moreira Filho,7 Weimar Kunz Sebba Barroso de Souza,8  Wilson Nadruz9
+
+Faculdade de Ciências Médicas – Universidade do Estado do Rio de Janeiro,1 Rio de Janeiro, RJ – Brasil
+Pontifícia Universidade Católica de São Paulo,2 Sorocaba, SP – Brasil
+Instituto do Coração do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo,3 São Paulo, SP – Brasil
+Instituto Nacional de Cardiologia,4 Rio de Janeiro, RJ – Brasil
+Escola Bahiana de Medicina e Saúde Pública,5 Salvador, BA – Brasil
+Hospital Alemão Oswaldo Cruz, 6 São Paulo, SP – Brasil
+Clínica Gapski Moreira,7 Curitiba, PR – Brasil
+Universidade Federal de Goiás,8 Goiânia, GO – Brasil
+Faculdade de Ciências Médicas, Universidade Estadual de Campinas (UNICAMP),9 Campinas, SP – Brasil
+
+Resumo
+Fundamento: O controle rigoroso da pressão arterial tem sido investigado como uma estratégia para reduzir eventos 
+cardiovasculares graves em pacientes hipertensos. No entanto, ainda existem dúvidas sobre o impacto de metas intensivas 
+de tratamento anti-hipertensivo (meta < 130/80 mmHg) em comparação com metas convencionais (≥ 130/80 mmHg) na 
+prevenção de infarto do miocárdio, acidente vascular cerebral, mortalidade e possíveis eventos adversos do tratamento.
+
+Objetivo: Avaliar a eficácia de metas intensivas de tratamento anti-hipertensivo na redução de eventos cardiovasculares 
+críticos em comparação com metas usuais.
+
+Métodos: Esta revisão sistemática incluiu ensaios clínicos randomizados (ECRs) que compararam metas intensivas de 
+controle da pressão arterial com metas convencionais em adultos com 18 anos ou mais. Foram incluídos estudos com 
+pelo menos um dos seguintes desfechos: mortalidade, infarto do miocárdio, acidente vascular cerebral, progressão 
+para doença renal crônica em estágios IV ou V, necessidade de diálise ou transplante renal. As bases de dados Medline, 
+Embase e Cochrane Library foram pesquisadas até maio de 2024. A avaliação do risco de viés foi realizada por dois 
+revisores independentes utilizando a ferramenta Risk of Bias 2 (RoB 2) da Colaboração Cochrane. A síntese dos resultados 
+foi conduzida por meio de metanálise para o desfecho composto de infarto do miocárdio, acidente vascular cerebral 
+e mortalidade por todas as causas. A certeza da evidência científica e a força de recomendação seguiram os métodos 
+propostos pela ferramenta GRADE (Grading of Recommendations Assessment, Development and Evaluation).
+
+Resultados: Foram incluídos nove ECRs com mais de 34.000 participantes. O tratamento intensivo foi associado a uma 
+redução de 13% nos eventos cardiovasculares. Nos estudos com baixo risco de viés, a redução foi de 17%, com alta 
+certeza da evidência. Separadamente, observou-se uma redução significativa nos desfechos de infarto do miocárdio e 
+acidente vascular cerebral, mas não na mortalidade por todas as causas. Dados limitados foram encontrados sobre a 
+progressão da doença renal e necessidade de diálise ou transplante renal.
+
+Conclusão: As evidências de alta qualidade sugerem que metas mais intensivas de tratamento anti-hipertensivo reduzem 
+significativamente os eventos cardiovasculares. Contudo, a escolha das metas de tratamento deve ser individualizada, 
+considerando fatores como idade, fragilidade, o risco cardiovascular individual e a possibilidade de eventos adversos. 
+A adesão ao tratamento é fundamental para o sucesso terapêutico.
+
+Palavras-chave: Hipertensão; Revisão Sistemática; Metanálise; Tratamento Farmacológico;
+
+Correspondência: Andréa Araujo Brandão •
+Universidade do Estado do Rio de Janeiro – Av. 28 de Setembro, 77. CEP 20551-030, Vila Isabel, Rio de Janeiro, RJ – Brasil
+E-mail: andreaaraujobrandao@gmail.com
+Artigo recebido em 11/11/2024, revisado em 10/01/2025, aceito em 10/01/2025
+Editor responsável pela revisão: Paulo B. Veiga Jardim
+
+DOI: https://doi.org/10.36660/abc.20240761
+
+1 Arq Bras Cardiol. 2025; 122(3):e20240761
+
+
+
+Brandão et al.
+Revisão Sistemática sobre Metas Intensivas do Tratamento Anti-Hipertensivo
+
+Artigo Original
+
+Abstract
+Background: Strict blood pressure control has been investigated as a strategy to reduce severe cardiovascular events in patients with hypertension. 
+However, there are still doubts about the impact of intensive antihypertensive treatment goals (< 130/80 mmHg) compared to conventional 
+goals (≥ 130/80 mmHg) in preventing myocardial infarction, stroke, mortality, and possible treatment-related adverse effects.
+
+Objective: To evaluate the effectiveness of intensive antihypertensive treatment goals in reducing critical cardiovascular events compared to 
+usual goals.
+
+Methods: This systematic review included randomized controlled trials (RCTs) that compared intensive blood pressure control goals with 
+conventional goals in adults aged 18 years or older. Studies with at least one of the following outcomes were included: mortality, myocardial 
+infarction, stroke, progression to stage 4 or 5 chronic kidney disease, need for dialysis, or kidney transplantation. Medline, Embase, and Cochrane 
+Library databases were searched up to May 2024. Risk of bias assessment was performed by two independent reviewers using the Cochrane 
+Collaboration’s Risk of Bias 2 (RoB 2) tool. Synthesis of results was conducted through meta-analysis for the composite outcome of myocardial 
+infarction, stroke, and all-cause mortality. The certainty of scientific evidence and strength of recommendation followed the methods proposed 
+by the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) tool.
+
+Results: Nine RCTs with more than 34,000 participants were included. Intensive treatment was associated with a 13% reduction in cardiovascular 
+events. In the studies with low risk of bias, the reduction was 17%, with high certainty of evidence. Separately, a significant reduction was 
+observed in the outcomes of myocardial infarction and stroke, but not in all-cause mortality. Limited data were found on the progression of 
+kidney disease and the need for dialysis or kidney transplantation.
+
+Conclusion: High-quality evidence suggests that more intensive antihypertensive treatment goals significantly reduce cardiovascular events. 
+However, the choice of treatment goals should be individualized, considering factors such as age, frailty, individual cardiovascular risk, and the 
+possibility of adverse events. Adherence to treatment is essential to therapeutic success.
+
+Keywords: Hypertension; Systematic Review; Meta-Analysis; Drug Therapy.
+
+Full texts in English - https://abccardiol.org/en/
+
+Figura Central: Revisão Sistemática sobre a Eficácia de Metas Intensivas do Tratamento Anti-Hipertensivo: 
+Recomendação da Sociedade Brasileira de Cardiologia (SBC) 
+
+Intervenção Controle
+Estudos Risco Relativo RR (95% IC)
+
+Eventos Total Eventos Total
+#02 Schrier 41 237 48 243 0,88 [0,60; 1,28]
+#03 Estacio 3 66 2 63 1,43 [0,25; 8,29]
+#04 CardioSis 12 557 20 553 0,60 [0,29; 1,21]
+#05 Appel 83 540 99 554 0,86 [0,66; 1,12]
+#06 ACCORD 310 2363 345 2371 0,90 [0,78; 1,04]
+#07 SPS3 267 1501 293 1591 0,97 [0,83; 1,12]
+#08 SPRINT 314 4678 396 4683 0,79 [0,69; 0,92]
+#09 HOMED-BP 72 1759 75 1759 0,96 [0,70; 1,32]
+#10 Zhang 170 4243 217 4268 0,79 [0,65; 0,96]
+
+Modelo de efeito randômico 15944 16085 0,87 [0,80; 0,94]
+
+	 0,2	 0,5	 1	 2	 5
+Heterogeneidade: I2= 0%, t2 = 0,0013, p = 0,60
+
+Arq Bras Cardiol. 2025; 122(3):e20240761
+
+Recomendação 1: A Sociedade Brasileira de Cardiologia Recomendação 2: A Sociedade Brasileira de Cardiologia 
+recomenda a estratégia de metas mais intensivas para o recomenda a estratégia de metas mais intensivas para o 
+tratamento anti-hipertensivo (valores menores de 130/80 mmHg) tratamento anti-hipertensivo (valores menores de 130/80 mmHg) 
+para pacientes adultos hipertensos, com o objetivo de reduzir para pacientes hipertensos idosos (idade > 65 anos), com 
+eventos cardiovasculares importantes (infarto do miocárdio, o objetivo de reduzir eventos cardiovasculares importantes 
+acidente vascular cerebral e morte). Esta é uma recomendação futuros (infarto do miocárdio, acidente vascular cerebral e 
+forte com uma alta certeza da evidência. morte). Esta é uma recomendação forte com uma alta certeza 
+
+Arq Bras Cardiol. 2025; 122(3):e20240761 2
+
+
+
+Brandão et al.
+Revisão Sistemática sobre Metas Intensivas do Tratamento Anti-Hipertensivo
+
+Artigo Original
+
+da evidência. Esta recomendação deve ser avaliada de forma melhores evidências científicas atuais, a Sociedade Brasileira 
+individualizada quando se tratar de um idoso frágil ou com de Cardiologia (SBC) desenvolveu uma Recomendação Clínica 
+expectativa de vida futura limitada. sobre o tema.
+
+Recomendação 3: A Sociedade Brasileira de Cardiologia 
+recomenda a estratégia de metas mais intensivas para o Métodos
+tratamento anti-hipertensivo (redução adicional de 5 mmHg) 
+para pacientes hipertensos de alto risco cardiovascular que Para a realização da Recomendação Clínica, foi realizada 
+já estejam dentro da meta de tratamento intensivo (PAS uma revisão sistemática. A pergunta de pesquisa estruturada no 
+< 130 mmHg), com o objetivo de redução adicional de formato PICO (paciente/população, intervenção, comparação 
+eventos cardiovasculares importantes futuros (infarto do e desfecho) foi: Em pacientes hipertensos, qual é a diferença 
+miocárdio, acidente vascular cerebral e morte). Esta é uma do tratamento farmacológico com metas mais intensivas de 
+recomendação forte com uma alta certeza da evidência. controle da PA (< 130/80 mmHg) comparadas a metas de 
+
+controle habitual (≥ 130/80 mmHg), especificamente em 
+relação a desfechos críticos e importantes, como morte, 
+
+Introdução acidente vascular cerebral, infarto do miocárdio, progressão 
+A hipertensão arterial (HA) é atualmente um importante para insuficiência renal estágio 4 ou 5, necessidade de diálise 
+
+desafio de saúde, que contribui substancialmente para as taxas ou transplante renal? O protocolo do estudo foi registrado na 
+de doenças cardiovasculares globalmente. Trata-se de um dos base de dados PROSPERO, sob o número CRD42024545853.
+principais fatores de risco para morbidade e mortalidade, A revisão sistemática rápida, metodologia empregada neste 
+afetando mais de um bilhão de pessoas e sendo responsável documento, pertence à família das revisões sistemáticas. 
+por aproximadamente 9,4 milhões de mortes anuais.1 A HA Trata-se de uma ferramenta desenvolvida na última década 
+não apenas aumenta o risco de complicações cardiovasculares, com o objetivo de manter o rigor metodológico em busca 
+mas também impõe uma considerável carga econômica das melhores evidências possíveis, porém com modificações 
+sobre os sistemas de saúde, especialmente em países de que aceleram o tempo de execução. Geralmente, essas 
+baixa e média renda.2 No Brasil, a HA também é um grande revisões informam sociedades médicas ou instituições de 
+problema de saúde pública, que afeta aproximadamente um saúde sobre as melhores evidências disponíveis, com base 
+terço da população adulta.3 É responsável por uma proporção em uma pergunta no formato PICO, de maneira sensível, 
+significativa de infartos e acidentes vasculares cerebrais, que transparente e sistemática. Instituições de destaque na área 
+são as principais causas de morte no país.4,5 A HA também de metodologia descreveram os métodos para esse tipo de 
+exerce uma influência substancial sobre o Sistema Único de revisão sistemática.10-12
+
+Saúde (SUS), resultando em aumento dos custos de saúde, Uma primeira busca por revisões sistemáticas sobre a 
+considerável perda de dias de trabalho e aposentadoria pergunta PICO foi realizada em três bases de dados: Medline, 
+precoce.6 Há uma necessidade crescente de intervenções Embase e a Biblioteca Cochrane. Os detalhes das estratégias 
+eficazes de saúde pública voltadas para a prevenção, detecção de busca estão fornecidos no material suplementar (Tabela 
+precoce e manejo da doença.7 Enfrentar esse desafio é crucial S1). Dois pesquisadores realizaram, de forma independente, 
+para melhorar a saúde e reduzir os níveis de doenças crônicas a seleção dos estudos e a extração das características basais 
+no Brasil. dos documentos definidos para leitura completa (Tabelas S2 
+
+O tratamento anti-hipertensivo desempenha papel crucial e S3). No entanto, entre as revisões sistemáticas encontradas, 
+no manejo da doença e na redução do risco associado que cobrem os anos de 2019 a 2024, nenhuma abordou 
+a eventos cardiovasculares, e normalmente envolve exatamente a questão PICO de interesse, exceto pelo 
+uma combinação de intervenções no estilo de vida com documento de Sakima et al.13 Esta publicação incluiu buscas 
+tratamentos farmacológicos.7 Atualmente, existe um debate por estudos até março de 2018, recuperando nove artigos 
+a respeito das metas ideais a serem alcançadas na HA. As que compararam a meta intensiva de PA (< 130/80 mmHg) 
+estratégias de controle intensivo, que visam metas mais baixas com a meta usual e avaliaram eventos cardiovasculares como 
+de pressão arterial (PA), mostraram uma redução significativa desfecho. A decisão dos autores foi atualizar a busca dessa 
+na incidência de eventos críticos em pacientes de alto risco revisão sistemática e realizar uma nova metanálise com os 
+em estudos clínicos como o SPRINT.8 No entanto, essa dados extraídos dos estudos primários. 
+abordagem também traz um aumento potencial dos riscos Uma segunda busca por ensaios clínicos randomizados 
+de eventos adversos, como hipotensão, lesão renal aguda (ECRs) foi realizada para a atualização do documento de 
+e desequilíbrios eletrolíticos, que podem levar a desfechos referência escolhido, englobando o período de março de 2018 
+desfavoráveis, especialmente em pacientes idosos ou frágeis.9 a maio de 2024 nas mesmas bases de dados que a primeira 
+Por outro lado, o tratamento convencional, que segue metas busca. Os detalhes das estratégias de busca estão fornecidos 
+de PA mais moderadas, pode não proporcionar o mesmo nível no material suplementar (Tabela 4S). Os artigos selecionados 
+de proteção cardiovascular e renal.8 Essa discussão ressalta a para a revisão de texto completo foram considerados para 
+importância de tratamentos individualizados, que considerem inclusão se atendessem aos seguintes critérios: (1) ser um 
+o estado geral de saúde do paciente, além das comorbidades e ECR; (2) apresentar estimativas de risco para avaliar o impacto 
+a possibilidade de efeitos adversos relacionados ao tratamento. de metas intensivas de PA versus metas usuais de PA; (3) 
+
+Com o objetivo de esclarecer a melhor estratégia em relação apresentar pelo menos um dos seguintes desfechos descrito 
+às metas de PA em pacientes hipertensos, considerando as numericamente: mortalidade por todas as causas, acidente 
+
+3 Arq Bras Cardiol. 2025; 122(3):e20240761
+
+
+
+Brandão et al.
+Revisão Sistemática sobre Metas Intensivas do Tratamento Anti-Hipertensivo
+
+Artigo Original
+
+vascular cerebral, infarto do miocárdio e progressão para mais intensivas, sem diferença significativa observada para a 
+insuficiência renal estágio 4 ou 5, necessidade de diálise ou mortalidade por todas as causas (Figura 1S).
+transplante renal; (4) incluir pacientes com 18 anos ou mais. O desfecho de progressão da doença renal foi avaliado 
+Não houve restrições de idioma na seleção dos estudos. em quatro estudos incluídos, mas apenas dois forneceram 
+
+Dois pesquisadores foram responsáveis pela seleção, extração dados numéricos. Devido ao baixo número de estudos e às 
+e avaliação da qualidade de todos os artigos finais. A ferramenta diferenças nas definições de progressão renal, os autores não 
+RoB 2 (Risk of Bias 2) da Colaboração Cochrane foi utilizada incluíram esse desfecho na avaliação primária e não realizaram 
+para a avaliação do risco de viés.14 A força das recomendações uma metanálise para esse evento individual.
+e a certeza das evidências foram determinadas de acordo Duas revisões sistemáticas adicionais avaliadas para leitura 
+com a metodologia GRADE (Grading of Recommendations completa na primeira busca respondem perguntas PICO com 
+Assessment, Development and Evaluation)15 (Tabelas 2 e 3).Uma pequenas diferenças em relação à pergunta científica original 
+descrição detalhada da metodologia empregada nesta revisão desta revisão. Ambas foram consideradas pelos autores como 
+sistemática pode ser encontrada no material suplementar. O temas muito relevantes para o sistema de saúde e subsidiaram 
+viés de publicação não foi avaliado pela razão do número de duas recomendações clínicas adicionais deste documento.26,27 
+estudos originais ser menor do que dez. Os dois documentos foram considerados de boa qualidade 
+
+As recomendações clínicas foram definidas de forma técnica pelos autores, tendo sido penalizados pela avaliação 
+consensual em reunião de um Painel de Recomendação de qualidade AMSTAR 228 apenas em características que 
+formado por profissionais indicados pela SBC. Foi considerado não comprometiam a informação central. A avaliação de 
+o limiar de 5% como uma diferença mínima importante para qualidade pela ferramenta AMSTAR 2 destas duas revisões 
+a intervenção ser considerada clinicamente relevante. sistemáticas adicionais utilizadas para recomendações clínicas 
+
+Todo o projeto foi supervisionado e financiado pela SBC. suplementares estão na Tabela 6S.
+A elaboração da revisão sistemática foi conduzida por uma A Tabela 7S descreve o PRISMA deste documento.
+equipe independente de metodologistas.
+
+Discussão
+Resultados A HA é um dos principais fatores de risco modificável 
+
+Os nove artigos incluídos na metanálise de referência,13 para morte prematura. Portanto, determinar se metas mais 
+comparando a meta de tratamento anti-hipertensivo intensivas de redução da PA oferecem benefícios adicionais 
+intensivo (< 130/80 mmHg) com a meta de tratamento para a redução de complicações cardiovasculares é de suma 
+padrão, foram avaliados para inclusão nesta nova importância, alinhando-se à missão educativa da SBC. Esta 
+metanálise aqui apresentada. Desses, um foi excluído por revisão oferece uma resposta conclusiva para essa lacuna na 
+não apresentar os riscos relativos de interesse,16 e os oito prática clínica.
+restantes foram incluídos.8,17-23
+
+Definir o valor-alvo para o tratamento anti-hipertensivo tem 
+Como resultado da segunda busca na literatura, que teve sido um desafio na literatura científica devido à variabilidade 
+
+como objetivo identificar novos ECRs publicados após março das metas propostas em diferentes estudos. Embora um ponto 
+de 2018, foram inicialmente triadas 2.061 citações. Destas, de corte de 120/80 mmHg possa ser considerado, ECRs que 
+apenas dois estudos foram selecionados para a revisão de visaram esse alvo mais rigoroso, frequentemente enfrentaram 
+texto completo, resultando na inclusão de um ECR adicional dificuldades em atingir esses resultados. Por essa razão, nesta 
+na metanálise atualizada,24 e na exclusão do segundo artigo revisão sistemática, optou-se por incluir estudos nos quais o 
+por não ser um ECR original.25 braço de intervenção visava uma PA abaixo de 130/80 mmHg, 
+
+As principais características dos nove estudos primários objetivo mais alcançável na prática clínica real.
+incluídos nesta metanálise estão apresentadas na Tabela 1. Na busca inicial da literatura, que teve como objetivo 
+Todas as características extraídas estão disponíveis no material identificar revisões sistemáticas que abordassem a pergunta 
+suplementar (Tabela 5S). PICO predefinida, nenhum documento foi encontrado que 
+
+O efeito para o desfecho composto primário, obtido pudesse fornecer uma resposta atualizada. Por isso, decidiu-se 
+pela sumarização dos dados dos nove estudos primários, é atualizar o artigo de Sakima et al.13
+
+apresentado na Figura 1. Houve uma redução de 13% nos Com base nos resultados demonstrados nesta revisão, que 
+eventos, favorecendo a estratégia de metas mais intensivas de inclui dados de mais de 34.000 indivíduos, o benefício clínico 
+tratamento anti-hipertensivo. Para o mesmo desfecho, quando de metas mais rigorosas de controle da PA para a população 
+apenas estudos com baixo risco de viés foram incluídos de pessoas com HA está bem estabelecido. No entanto, ainda 
+(Figura 2), observou-se uma redução de 17% nos eventos, havia incerteza se todos os espectros de risco cardiovascular 
+também favorecendo a estratégia de metas mais intensivas se beneficiariam desse efeito. Entre os nove estudos incluídos, 
+de tratamento anti-hipertensivo. A certeza das evidências cinco — com mais de 6.000 pacientes — tinham uma idade 
+para essa análise foi classificada como alta, de acordo com a média inferior a 60 anos e uma proporção significativa de 
+metodologia GRADE. mulheres (40% ou mais). Isso nos permite concluir que uma 
+
+Quando avaliados separadamente, esses três desfechos parte substancial desses participantes estava na categoria 
+mostraram uma redução no infarto do miocárdio e no de baixo risco de eventos cardiovasculares (risco estimado 
+acidente vascular cerebral, favorecendo a estratégia de metas < 7,5% para 10 anos). Por outro lado, os quatro estudos 
+
+Arq Bras Cardiol. 2025; 122(3):e20240761 4
+
+
+
+Brandão et al.
+Revisão Sistemática sobre Metas Intensivas do Tratamento Anti-Hipertensivo
+
+Artigo Original
+
+Tabela 1 – Características principais dos estudos primários
+
+Meta da PA PA 
+Autor Ano de Características da PA no Sistólica Diastólica Número de ade Percentual Dados 
+principal Publicação População grupo Basal Basal participantes Eventos Id
+
+Média de País Faltantes 
+Intensivo (mmHg) (mmHg) Mulheres n(%)
+
+Pacientes com 
+<130/80 
+
+#02 Schrier 2002 diabetes tipo 2 141,5 96 480 89 57 49% EUA 55(11)
+mmHg
+
+normotensos
+
+Pacientes 
+normotensos < 75 
+
+#3 Estacio 2006 com diabetes tipo mmHg 126 84 129 5 56 47% EUA 10(7)
+2 e normo ou (PAD)
+
+microalbuminúria
+
+Pacientes 
+hipertensos <130 
+
+#4 CardioSis 2009 144,0 92,0 1111 97 55,6 43% Itália 27(2)
+com síndrome mmHg
+
+metabólica
+
+Pacientes afro-
+americanos com <130/80 
+
+#5 Appel 2010 142 95 1094 120 55,3 39% EUA 0(0)
+nefroesclerose mmHg
+hipertensiva
+
+Pacientes com 
+<120 
+
+#6 ACCORD 2010 diabetes tipo 2 e 139,3 76,0 4733 460 62,2 38% EUA 232(4,9)
+mmHg
+
+hipertensão
+
+Pacientes com 
+acidente vascular <130 
+
+#7 SPS3 2013 143,4 78,2 3020 377 63 37% EUA 550(18,4)
+cerebral lacunar mmHg
+
+recente
+
+Pacientes 
+hipertensos com <120 
+
+#8 SPRINT 2015 139,7 78,1 9361 562 67,9 36% EUA 986(10,5)
+risco cardiovascular mmHg
+
+aumentado
+
+Pacientes 
+japoneses com 
+
+#9 HOMED-
+2018 hipertensão, <125/80 154 90 3518 51 59,6 50% Japão 710(20)
+
+BP
+maiores de  
+
+40 anos
+
+Pacientes 
+chineses com 
+
+110-130 
+#10 Zhang 2021 idade entre 60 146,1 86,1 8511 355 66,2 54% China 234(2,7)
+
+mmHg
+e 80 anos com 
+
+hipertensão
+
+Autor Ano de Desfechos Eventos Eventos Morte Morte IAM IAM AVC AVC 
+principal Publicação Primários CV Grupo CV Grupo Grupo Grupo Grupo Grupo Grupo Grupo RoB 2.0
+
+Intensivo Usual Intensivo Usual Intensivo Usual Intensivo Usual
+
+Alteração no 
+#02 Schrier 2002 clearance de 41/237 48/243 18/237 20/243 19/237 15/243 4/237 13/243 Alto
+
+creatinina
+
+Alteração na 
+Não Não Não Não 
+
+#3 Estacio 2006 excreção urinária 3/66 2/63 1/66 0/63 Moderado
+relatado relatado relatado relatado
+
+de albumina
+
+Redução no 
+índice de massa 
+
+#4 CardioSis 2009 12/557 20/553 4/557 5/553 4/557 6/553 4/557 9/553 Alto
+ventricular 
+esquerda
+
+Desfecho composto 
+de morte, doença 
+renal em estágio 
+
+#5 Appel 2010 83/540 99/554 38/540 47/554 19/540 23/554 26/540 29/554 Moderado
+terminal ou redução 
+da taxa de filtração 
+
+glomerular
+
+5 Arq Bras Cardiol. 2025; 122(3):e20240761
+
+
+
+Brandão et al.
+Revisão Sistemática sobre Metas Intensivas do Tratamento Anti-Hipertensivo
+
+Artigo Original
+
+Desfecho 
+#6 ACCORD 2010 composto de 310/2363 345/2371 150/2363 144/2371 126/2363 146/2371 34/2363 55/2371 Baixo
+
+IAM, AVC e morte
+
+#7 SPS3 2013 AVC recorrente 267/1501 293/1519 106/1501 101/1519 36/1501 40/1519 125/1501 152/1519 Moderado
+
+Desfecho 
+composto de 
+
+#8 SPRINT 2015 IAM, AVC, morte 314/4678 396/4683 155/4678 210/4683 97/4678 116/4683 62/4678 70/4683 Baixo
+cardiovascular, 
+
+SCA e IC
+
+Desfecho 
+composto 
+
+#9 HOMED- 25/1759 28/1759 
+2018 de morte 72/1759 75/1759 27/1759 31/1759 20/1759 16/1759 Alto
+
+BP (***) (***)
+cardiovascular, 
+
+IAM e AVC
+
+Desfecho 
+composto 
+
+55/4243 82/4268 
+#10 Zhang 2021 de eventos 170/4243 217/4268 67/4243 64/4268 48/4243 71/4268 Baixo
+
+(**) (**)
+cardiovasculares 
+
+e morte
+
+(**) SCA, não IAM isolado; (***) Não apenas IAM, a doença isquêmica do coração abrangeu morte por angina pectoris, parada cadíaca e infarto do miocárdio 
+não fatal. AVC: acidente vascular cerebral; CV: cardiovasculares; IAM: infarto agudo do miocárdio; IC: insuficiência cardíaca; PA: pressão arterial; PAD: pressão 
+arterial diastólica; SCA: síndrome coronariana aguda.
+
+Intervenção Controle
+Estudos Risco Relativo RR (95% IC)
+
+Eventos Total Eventos Total
+#02 Schrier 41 237 48 243 0,88 [0,60; 1,28]
+#03 Estacio 3 66 2 63 1,43 [0,25; 8,29]
+#04 CardioSis 12 557 20 553 0,60 [0,29; 1,21]
+#05 Appel 83 540 99 554 0,86 [0,66; 1,12]
+#06 ACCORD 310 2363 345 2371 0,90 [0,78; 1,04]
+#07 SPS3 267 1501 293 1591 0,97 [0,83; 1,12]
+#08 SPRINT 314 4678 396 4683 0,79 [0,69; 0,92]
+#09 HOMED-BP 72 1759 75 1759 0,96 [0,70; 1,32]
+#10 Zhang 170 4243 217 4268 0,79 [0,65; 0,96]
+
+Modelo de efeito randômico 15944 16085 0,87 [0,80; 0,94]
+
+	 0,2	 0,5	 1	 2	 5
+Heterogeneidade: I2= 0%, t2 = 0,0013, p = 0,60
+
+Figura 1 – Metanálise para o desfecho composto primário, definido como infarto do miocárdio, acidente vascular cerebral e mortalidade 
+por todas as causas.
+
+restantes, que incluíam pacientes em sua maioria homens e menor probabilidade de efeitos colaterais, poderiam resultar 
+com mais de 60 anos, representavam adequadamente o em benefícios clínicos adicionais (e valeria recomendar, se 
+outro extremo de exposição, abrangendo pacientes com alto colocados em prática). Com base na metanálise de dados 
+risco cardiovascular (risco estimado > 15% para 10 anos). individuais da Blood Pressure Lowering Treatment Trialists’ 
+Combinando esses dados, podemos supor que estes subgrupos Collaboration de 2021, para qualquer faixa inicial de PA 
+estavam bem representados nos estudos que observaram um (mesmo em indivíduos com valores sistólicos menores do 
+benefício importante em redução de eventos. que 120 mmHg), uma redução de 5 mmHg determina uma 
+
+Outra pergunta relevante que se coloca é se reduções redução de 11% nos eventos cardiovasculares.27 Para esses 
+adicionais para valores de 120/80 mmHg ou ainda mais baixos, indivíduos de alto risco, buscar as metas de controle rigoroso 
+particularmente em pacientes com maior risco cardiovascular propostas pelos estudos SPRINT8 e ACCORD21 pode ser uma 
+
+Arq Bras Cardiol. 2025; 122(3):e20240761 6
+
+
+
+Brandão et al.
+Revisão Sistemática sobre Metas Intensivas do Tratamento Anti-Hipertensivo
+
+Artigo Original
+
+Intervenção Controle
+Estudos Risco Relativo RR (95% IC)
+
+Eventos Total Eventos Total
+#06 ACCORD 310 2363 345 2371 0,90 [0,78; 1,04]
+#08 SPRINT 314 4678 396 4683 0,79 [0,69; 0,92]
+#10 Zhang 170 4243 217 4268 0,79 [0,65; 0,96]
+
+11284 11322 0,83 [0,76; 0,91]
+
+	 0,75	 1	 1,5
+Heterogeneidade: I2= 0%, t2 = 0,0005, p = 0,38
+
+Figura 2 – Metanálise para o desfecho composto primário, definido como infarto do miocárdio, acidente vascular cerebral e mortalidade 
+por todas as causas, avaliado apenas para os estudos com baixo risco de viés.
+
+Tabela 2 – Risco de viés dos estudos primários segundo a ferramenta RoB 2.0 da Colaboração Cochrane
+
+Estudo Intervenção Comparador Desfecho D1 D2 D3 D4 D5
+
+Schrier TTO Intensivo TTO Usual Eventos CV
+
+ESTACIO TTO Intensivo TTO Usual Eventos CV
+
+CardioSis TTO Intensivo TTO Usual Eventos CV
+
+Appel TTO Intensivo TTO Usual Eventos CV
+
+ACCORD TTO Intensivo TTO Usual Eventos CV
+
+SPS3 TTO Intensivo TTO Usual Eventos CV
+
+SPRINT TTO Intensivo TTO Usual Eventos CV
+
+HOMED-BP TTO Intensivo TTO Usual Eventos CV
+
+STEP - Zhang TTO Intensivo TTO Usual Eventos CV
+
+: Baixo Risco; : Moderado Risco; : Alto Risco. D1: Randomização; D2: Desvio do TTO; D3: Dados Faltantes;  D4: Medida 
+do Desfecho; D5: Seleção de Resultados Reportados. CV: cardiovasculares; TTO: tratamento.
+
+opção terapêutica vantajosa. Deve-se levar em consideração de aumento de reações adversas graves ou piora da 
+o risco de efeitos colaterais, número de medicamentos função renal.26 Esses achados reforçam ainda mais a ideia 
+utilizados (adesão) e custos adicionais, contrapondo-se com a de implementar um controle mais rigoroso da HA para a 
+significativa redução de eventos cardiovasculares críticos. Esta população em geral, independentemente da idade. No 
+revisão sistemática serviu de referência para a recomendação entanto, essa recomendação não elimina a necessidade de 
+clínica de número três neste documento. se considerar as circunstâncias individuais de cada paciente 
+
+Metas mais rigorosas de controle anti-hipertensivo e de se estabelecer metas menos intensivas para aqueles que 
+sempre levantam preocupações sobre eventos adversos, são frágeis, têm expectativa de vida limitada ou possuem 
+especialmente em pacientes muito idosos ou frágeis. No características que possam aumentar o risco de efeitos 
+entanto, uma metanálise recente envolvendo 20.895 colaterais. Esta revisão sistemática serviu de referência para 
+indivíduos idosos demonstrou que a estratégia de metas a recomendação clínica de número dois neste documento.
+intensivas de controle da PA resultou em uma redução de Ainda sobre possíveis eventos adversos do tratamento anti-
+29% nos principais eventos cardiovasculares, sem evidências hipertensivo, existe a discussão sobre o fenômeno da curva J. 
+
+7 Arq Bras Cardiol. 2025; 122(3):e20240761
+
+
+
+Brandão et al.
+Revisão Sistemática sobre Metas Intensivas do Tratamento Anti-Hipertensivo
+
+Artigo Original
+
+Tabela 3 – Sumários de resultados (SoF – Summary of Findings), de acordo com a metodologia GRADE
+
+Efeito Absoluto (95% CI)
+
+Desfecho Risco com o Efeito Relativo No de 
+(95% IC) participantes Certeza da 
+
+Risco com o 
+ratamento usual tratamento intensivo (estudos) Evidência
+
+t (< 130/80 mmHg)
+Eventos CV RR 0,87 
+
+89 por 1000 77 por 1000 32749 (9 ECRs) Alta
+(Morte, IAM e AVC) (0,80 a 0,94)
+
+RR 0,93 
+Morte 39 por 1000 36 por 1000 32029 (9 ECRs) Alta
+
+(0,80 a 1,09)
+AVC: acidente vascular cerebral; CV: cardiovasculares; ECRs: ensaios clínicos randomizados; IAM: infarto agudo do miocárdio; 
+Nº: número.
+
+Este se refere à observação de que tanto níveis excessivamente observacional, conduzido em um único centro, e com 
+altos quanto excessivamente baixos de PA estão associados um pequeno número de participantes. Essas críticas são 
+a um aumento do risco de complicações cardiovasculares, importantes, mas não invalidam os resultados apresentados 
+formando uma curva em forma de “J” quando plotada em nesta metanálise. Destaca-se assim, uma das muitas vantagens 
+um gráfico. Esse fenômeno é particularmente observado a respeito da realização de uma revisão sistemática, que 
+com a PA diastólica e sua associação com a doença arterial sumariza os resultados de vários estudos, minimizando a 
+coronariana e outros eventos cardiovasculares. O conceito da influência de um único artigo isolado no resultado final. Ao 
+relação em curva J entre a PA e desfechos cardiovasculares realizar uma análise de sensibilidade excluindo o estudo 
+foi proposto pela primeira vez na década de 1970,29 e SPRINT, o benefício clínico da redução intensiva da PA 
+posteriormente verificado em vários estudos observacionais, permanece, mostrando uma redução de 11% nos eventos 
+como por exemplo o Estudo de Framingham.30 Baseado na (Figura 2S).
+mesma revisão sistemática realizada pelo grupo Blood Pressure Recente revisão sistemática em processo de publicação 
+Lowering Treatment Trialists’ Collaboration de 2021, reunindo avaliou pergunta PICO semelhante e chegou a resultados 
+48 ECRs (que possuem uma certeza da evidência mais parecidos, corroborando as recomendações clínicas sugeridas 
+robusta do que estudos observacionais), quando avaliamos neste documento da SBC.33 Whelton et al.33 observaram para 
+a população com doença cardiovascular prévia e reduções a meta intensiva de controle da PA sistólica (< 130 mmhg) 
+da PA sistólica além de 120 mmHg, não foi evidenciado um uma redução de 22% para um desfecho composto de acidente 
+aumento de eventos cardiovasculares. Ao contrário, mesmo vascular cerebral, doença coronariana, insuficiência cardíaca 
+nesta população de muito alto risco e metas muito intensivas e morte cardiovascular (hazard ratio [HR] = 0,78; intervalo 
+de redução da PA, foi observada também a diminuição dos de confiança [IC] de 95% =0,70 a 0,87; heterogeneidade: 
+desfechos primários, contradizendo a hipótese do fenômeno I2 = 64,5%; p = 0,01). Houve diferença estatística para o 
+da curva J. desfecho mortalidade geral (HR = 0,89; IC 95% =0,79 a 
+
+Uma discussão relevante adicional é se o método de 0,99; heterogeneidade: I2 = 37%; p = 0,14), embora haja 
+medida da PA poderia influenciar os resultados de efeito algum grau de imprecisão para a importância clínica deste 
+clínico observados. O estudo SPRINT utilizou um método efeito, comprovado pelo IC. 
+que envolvia a realização de três aferições de PA durante Finalmente, um ECR publicado já na fase final de escrita 
+uma visita ao consultório, com o paciente sentado, após um deste documento também corrobora os achados desta revisão 
+período de cinco minutos de repouso, utilizando um sistema sistemática.34 Liu et al.34 incluíram 11.255 participantes 
+de medida automatizada (Modelo 907, Omron Healthcare), chineses de alto risco cardiovascular (4.359 com diabetes 
+sem a presença do médico ou outro profissional de saúde. e 3.022 com acidente vascular cerebral prévio) que foram 
+Este procedimento foi criticado por diferir daqueles utilizados designados para tratamento intensivo (n = 5.624) ou 
+em outros estudos, levantando preocupações sobre a tratamento padrão (n = 5.631). A idade média foi de 64,6 
+reprodutibilidade de seus resultados. No entanto, um estudo anos. A média da PA sistólica durante o acompanhamento foi 
+conduzido logo após o SPRINT demonstrou, por meio de de 119,1 mmHg (desvio padrão: 11,1) no grupo de tratamento 
+entrevistas com os seus participantes, que essa técnica foi intensivo e 134,8 mmHg (desvio padrão: 10,5) no grupo 
+implementada em menos da metade dos pacientes, sem de tratamento padrão. Durante uma mediana de 3,4 anos 
+diferenças nos desfechos clínicos entre os grupos com base de acompanhamento, desfechos primários ocorreram em 
+no método de mensuração da PA.31 Um segundo estudo 547 (9,7%) participantes no grupo de tratamento intensivo 
+comparou a técnica proposta no ensaio SPRINT com medidas e 623 (11,1%) no grupo de tratamento padrão (HR = 0,88; 
+de PA feitas sem repouso prévio. Os resultados mostraram IC 95% = 0,78 a 0,99). Eventos adversos graves de síncope 
+uma variabilidade considerável na concordância entre os foram infrequentes, e ocorreram com maior frequência no 
+valores, sugerindo que a técnica do SPRINT poderia levar a grupo de tratamento intensivo (n = 24 [0,4%] de 5.624) do 
+leituras de PA mais baixas.32 No entanto, este foi um estudo que no grupo de tratamento padrão (n = 8 [0,1%] de 5.631; 
+
+Arq Bras Cardiol. 2025; 122(3):e20240761 8
+
+
+
+Brandão et al.
+Revisão Sistemática sobre Metas Intensivas do Tratamento Anti-Hipertensivo
+
+Artigo Original
+
+HR = 3,00, IC 95% = 1,35 a 6,68). Não houve diferença anos, aproximadamente. O tempo de tratamento para HA é 
+significativa entre os grupos nos eventos adversos graves de indefinido, a princípio para o total de vida restante do paciente 
+hipotensão, anormalidade eletrolítica, queda prejudicial ou hipertenso. Portanto, o efeito clínico comprovado em um 
+injúria renal aguda. número limitado de anos pode estar subdimensionado para 
+
+Outros fatores, além de benefícios e malefícios clínicos, uma estratégia clínica de muito mais longo prazo.
+devem ser considerados por um Painel de Recomendações 
+ao tomar a decisão final para uma recomendação clínica, Conclusão
+de acordo com a estrutura de Evidências para Decisão da 
+metodologia GRADE. O custo é um desses fatores. No Brasil, A HA continua sendo um enorme desafio em saúde, 
+as principais classes de medicamentos anti-hipertensivos são com profundas implicações para a morbidade e mortalidade 
+fornecidas gratuitamente pelo Ministério da Saúde em todo cardiovascular da população brasileira. Os achados desta 
+o país, o que facilita a implementação da estratégia intensiva revisão ressaltam os benefícios das metas intensivas de 
+recomendada neste documento.35 tratamento anti-hipertensivo, que demonstraram reduzir 
+
+significativamente a incidência de eventos cardiovasculares 
+A adesão dos pacientes aos medicamentos prescritos importantes. No entanto, a decisão de adotar metas mais 
+
+pode ser um desafio, pois metas mais rigorosas de controle agressivas de controle da PA deve ser individualizada, 
+da PA normalmente exigem o uso maior de medicamentos levando-se em consideração fatores específicos do paciente, 
+para alcançar os resultados desejados. Estratégias para como idade, fragilidade e risco de eventos adversos. 
+melhorar a adesão, como simplificar os esquemas posológicos Além disso, garantir a adesão dos pacientes aos esquemas 
+(prescrevendo medicamentos que requerem um menor medicamentosos prescritos é crucial para o sucesso de 
+número de doses por dia),36 utilizar medicamentos combinados qualquer estratégia de tratamento. Ao considerar os potenciais 
+em um único comprimido,37 incentivar os pacientes a benefícios e riscos, envolvendo o paciente na tomada de 
+monitorarem sua PA no domicílio38 e promover uma relação decisão final, os profissionais de saúde podem otimizar o 
+próxima entre os profissionais de saúde e os pacientes,39 manejo da HA e melhorar os resultados clínicos do paciente 
+podem contribuir para o sucesso da estratégia. e do sistema de saúde.
+
+Outra abordagem para melhorar a adesão dos pacientes 
+é envolvê-los no processo de tomada de decisão. Utilizando 
+calculadoras de predição de risco cardiovascular, é Contribuição dos Autores
+possível determinar a probabilidade individual de eventos Concepção e desenho da pesquisa, Obtenção de dados, 
+cardiovasculares nos próximos 10 anos.40 Com base Análise e interpretação dos dados, Redação do manuscrito e 
+nessa estimativa, os pacientes podem ser esclarecidos Revisão crítica do manuscrito quanto ao conteúdo: Brandão 
+sobre o real significado de uma redução adicional na AA, Rodrigues CIS, Bortolotto LA, Luna LC, Barros BM, Neves 
+PA e consequentemente no risco cardiovascular futuro, MFT, Moura AFS, Plavnik FL, Drager LF, Moreira Filho O, Souza 
+considerando também as possíveis desvantagens (eventos WKSB, Nadruz W; Análise estatística: Luna LC.
+adversos, custo, adesão, etc.). Isso permite uma melhor 
+compreensão da estratégia proposta como um todo, e o efeito 
+da estratégia por tempo indeterminado. Potencial Conflito de Interesse
+
+Esta revisão sistemática e metanálise apresenta algumas Não há conflito com o presente artigo.
+limitações. Primeiramente, há uma compreensível 
+heterogeneidade entre as características dos diversos estudos Fontes de Financiamento
+sobre o tema. Eles diferem em vários aspectos, incluindo O presente estudo não teve fontes de financiamento externas.
+as definições das metas de tratamento intensivo anti-
+hipertensivo, a idade média dos participantes, os métodos 
+de medida da PA e o risco cardiovascular basal dos pacientes Vinculação Acadêmica
+incluídos, entre outros. Em segundo lugar, há informações Não há vinculação deste estudo a programas de pós-
+limitadas nos estudos em relação à progressão da doença renal graduação.
+em pacientes já acometidos por doença renal crônica. Embora 
+este tenha sido um desfecho clínico predefinido no protocolo, 
+não foi amplamente investigado nos estudos incluídos, o que Aprovação Ética e Consentimento Informado  
+impede a formulação de conclusões definitivas. Por último, o Este artigo não contém estudos com humanos ou animais 
+tempo de seguimento dos estudos variou entre dois e cinco realizados por nenhum dos autores.
+
+Referências
+1.	 World Health Organization. Global Health Observatory Data Repository Population-Based Studies from 90 Countries. Circulation. 2016;134(6):441-
+
+[Internet]. Geneva: WHO; 2023 [cited 2024 Aug 31]. Available from: https:// 50. doi: 10.1161/CIRCULATIONAHA.115.018912.
+www.who.int/data/gho.
+
+3.	 Brasil. Ministério da Saúde. Vigitel Brasil 2020: Vigilância de Fatores de 
+2.	 Mills KT, Bundy JD, Kelly TN, Reed JE, Kearney PM, Reynolds K, et al. Global Risco e Proteção para Doenças Crônicas por Inquérito Telefônico. Brasília: 
+
+Disparities of Hypertension Prevalence and Control: A Systematic Analysis of Ministério da Saúde; 2021.
+
+9 Arq Bras Cardiol. 2025; 122(3):e20240761
+
+
+
+Brandão et al.
+Revisão Sistemática sobre Metas Intensivas do Tratamento Anti-Hipertensivo
+
+Artigo Original
+
+4.	 GBD 2019 Brazil Collaborators. The Burden of Disease in Brazil, 1990– 20.	 Appel LJ, Wright JT Jr, Greene T, Agodoa LY, Astor BC, Bakris GL, et al. 
+2019: A Systematic Analysis for the Global Burden of Disease Study 2019. Intensive Blood-Pressure Control in Hypertensive Chronic Kidney Disease. 
+Lancet. 2018;392(10149):760-75. doi: 10.1016/ S0140-6736(18)31221-2. N Engl J Med. 2010;363(10):918-29. doi: 10.1056/NEJMoa0910975.
+
+5.	 Malachias MVB, Gomes MAM, Nobre F, Alessi A, Feitosa AD, Coelho EB. 21.	 ACCORD Study Group; Cushman WC, Evans GW, Byington RP, Goff DC 
+7th Brazilian Guideline of Arterial Hypertension: Chapter 2 - Diagnosis and Jr, Grimm RH Jr, et al. Effects of Intensive Blood-Pressure Control in Type 
+Classification. Arq Bras Cardiol. 2016;107(3 Suppl 3):7-13. doi: 10.5935/ 2 Diabetes Mellitus. N Engl J Med. 2010;362(17):1575-85. doi: 10.1056/
+abc.20160152. NEJMoa1001286.
+
+6.	 Bandeira TFGS, Mosegui GBG, Vianna CMM, López AJG. Estimativa de 22.	 SPS3 Study Group; Benavente OR, Coffey CS, Conwit R, Hart RG, McClure 
+Produtividade Perdida Atribuída a Doenças Cardiovasculares na América LA, et al. Blood-Pressure Targets in Patients with Recent Lacunar Stroke: The 
+do Sul. Arq Bras Cardiol. 2024;121(3):e20230521. doi: 10.36660/ SPS3 Randomised Trial. Lancet. 2013;382(9891):507-15. doi: 10.1016/
+abc.20230521. S0140-6736(13)60852-1. 
+
+7.	 Whelton PK, Carey RM, Aronow WS, Casey DE, Collins KJ, Himmelfarb 23.	 Asayama K, Ohkubo T, Metoki H, Obara T, Inoue R, Kikuya M, et al. 
+CD, et at. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/ Cardiovascular Outcomes in the First Trial of Antihypertensive Therapy 
+NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Guided by Self-Measured Home Blood Pressure. Hypertens Res. 
+Management of High Blood Pressure in Adults: a Report of the American 2012;35(11):1102-10. doi: 10.1038/hr.2012.125.
+College of Cardiology/American Heart Association Task Force on Clinical 
+Practice Guidelines. J Am Coll Cardiol. 2018;71(19):e127-e248. doi: 24.	 Zhang W, Zhang S, Deng Y, Wu S, Ren J, Sun G, et al. Trial of Intensive 
+10.1016/j.jacc.2017.11.006. Blood-Pressure Control in Older Patients with Hypertension. N Engl J Med. 
+
+2021;385(14):1268-79. doi: 10.1056/NEJMoa2111437. 
+8.	 SPRINT Research Group, Wright JT Jr, Williamson JD, Whelton PK, Snyder 
+
+JK, Sink KM, et al. A Randomized Trial of Intensive Versus Standard Blood- 25.	 SPRINT Research Group; Lewis CE, Fine LJ, Beddhu S, Cheung AK, Cushman 
+Pressure Control. N Engl J Medi. 2015;373(22):2103-16. doi: 10.1056/ WC, et al. Final Report of a Trial of Intensive versus Standard Blood-Pressure 
+NEJMoa1511939. Control. N Engl J Med. 2021;384(20):1921-30. doi: 10.1056/NEJMoa1901281. 
+
+9.	 Williamson JD, Supiano MA, Applegate WB, Berlowitz DR, Campbell 26.	 Seidu S, Willis H, Kunutsor SK, Khunti K. Intensive versus Standard Blood 
+RC, Chertow GM, et al. Intensive vs Standard Blood Pressure Control Pressure Control in Older Persons with or Without Diabetes: A Systematic 
+and Cardiovascular Disease Outcomes in Adults Aged≥ 75 years: A Review and Meta-Analysis of Randomised Controlled Trials. J R Soc Med. 
+Randomized Clinical Trial. JAMA. 2016;315(24):2673-82. doi: 10.1001/ 2023;116(4):133-43. doi: 10.1177/01410768231156997. 
+jama.2016.7050. 27.	 Blood Pressure Lowering Treatment Tr ia l i s t s ’  Col laborat ion. 
+
+10.	 Tricco AC, Langlois EV, Straus SE, editors. Rapid Reviews to Strengthen Pharmacological Blood Pressure Lowering for Primary and Secondary 
+Health Policy and Systems: A Practical Guide. Geneva: WHO; 2017. Prevention of Cardiovascular Disease Across Different Levels of Blood 
+
+Pressure: An Individual Participant-Level Data Meta-Analysis. Lancet. 
+11.	 Garritty C, Gartehner G, Nussbaumer-Streit B, King VJ, Hamel C, Affengruber 2021;397(10285):1625-36. doi: 10.1016/S0140-6736(21)00590-0.
+
+L, et al. Cochrane Rapid Reviews Methods Group Offers Evidence-Informed 
+Guidance to Conduct Rapid Reviews. J Clin Epidemiol. 2021;130:13-22. 28.	 Shea BJ, Reeves BC, Wells G, Thuku M, Hamel C, Moran J, et al. AMSTAR 2: 
+doi: 10.1016/j.jclinepi.2020.10.007. A Critical Appraisal Tool for Systematic Reviews that Include Randomised 
+
+or Non-Randomised Studies of Healthcare Interventions, or Both. BMJ. 
+12.	 Dobbins M. Rapid Review Guidebook: Steps for Conducting a Rapid Review. 2017;358:j4008. doi: 10.1136/bmj.j4008. 
+
+Hamilton: McMaster; 2017.
+29.	 Stewart IM. Long-Term Observations on High Blood-Pressure Presenting 
+
+13.	 Sakima A, Satonaka H, Nishida N, Yatsu K, Arima H. Optimal Blood Pressure in Fit Young Men. Lancet. 1971;1(7695):355-8. doi: 10.1016/s0140-
+Targets for Patients with Hypertension: A Systematic Review and Meta-Analysis. 6736(71)92205-7. 
+Hypertens Res. 2019;42(4):483-95. doi: 10.1038/s41440-018-0123-4. 
+
+30.	 D’Agostino RB, Belanger AJ, Kannel WB, Cruickshank JM. Relation of Low 
+14.	 Cochrane Collaboration. RoB 2: A Revised Tool for Assessing Risk of Bias in Diastolic Blood Pressure to Coronary Heart Disease Death in Presence of 
+
+Randomized Trials [Internet]. London: Cochrane Collaboration; 2019 [cited Myocardial Infarction: The Framingham Study. BMJ. 1991;303(6799):385-
+2024 Aug 31]. Available from: https://methods.cochrane.org/bias/resources/ 9. doi: 10.1136/bmj.303.6799.385. 
+rob-2-revised-cochrane-risk-bias-tool-randomized-trials.
+
+31.	 Johnson KC, Whelton PK, Cushman WC, Cutler JA, Evans GW, Snyder JK, 
+15.	 Schünemann H, Brożek J, Guyatt G, Oxman A, editors. GRADE Handbook et al. Blood Pressure Measurement in SPRINT (Systolic Blood Pressure 
+
+for Grading Quality of Evidence and Strength of Recommendations. Intervention Trial). Hypertension. 2018;71(5):848-57. doi: 10.1161/
+Hamilton: The GRADE Working Group; 2013 [cited 2024 Aug 31]. Available HYPERTENSIONAHA.117.10479. 
+from: https://gdt.gradepro.org/app/handbook/handbook.html.
+
+32.	 Agarwal R. Implications of Blood Pressure Measurement Technique for 
+16.	 Hannson L. The BBB Study: The Effect of Intensified Antihypertensive Implementation of Systolic Blood Pressure Intervention Trial (SPRINT). J 
+
+Treatment on the Level of Blood Pressure, Side-Effects, Morbidity and Am Heart Assoc. 2017;6(2):e004536. doi: 10.1161/JAHA.116.004536.
+Mortality in “Well-Treated” Hypertensive Patients. Behandla Blodtryck 
+Bättre. Blood Press. 1994;3(4):248-54. doi: 10.3109/08037059409102265. 33.	 Whelton PK, O’Connell S, Mills KT, He J. Optimal Antihypertensive 
+
+S y s t o l i c  B l ood  P re s su r e :  A  S y s t ema t i c  Rev i ew  and  Me ta -
+17.	 Schrier RW, Estacio RO, Esler A, Mehler P. Effects of Aggressive Blood Analysis.  Hypertension. 2024;81(11):2329-39. doi: 10.1161/
+
+Pressure Control in Normotensive Type 2 Diabetic Patients on Albuminuria, HYPERTENSIONAHA.124.23597. 
+Retinopathy and Strokes. Kidney Int. 2002;61(3):1086-97. doi: 
+10.1046/j.1523-1755.2002.00213.x. 34.	 Liu J, Zhang X, Wang Y, Chen G, Li H, Huang J, et al. Lowering Systolic 
+
+Blood Pressure to Less Than 120 mm Hg versus Less than 140 mm Hg 
+18.	 Estacio RO, Coll JR, Tran ZV, Schrier RW. Effect of Intensive Blood Pressure in Patients with High Cardiovascular Risk with and Without Diabetes 
+
+Control with Valsartan on Urinary Albumin Excretion in Normotensive or Previous Stroke: An Open-Label, Blinded-Outcome, Randomised 
+Patients with Type 2 Diabetes. Am J Hypertens. 2006;19(12):1241-8. doi: Trial. Lancet. 2024;404(10449):245-55. doi: 10.1016/S0140-
+10.1016/j.amjhyper.2006.05.011. 6736(24)01028-6.
+
+19.	 Verdecchia P, Staessen JA, Angeli F, Simone G, Achilli A, Ganau A, et al. Usual 35.	 Brasil. Ministério da Saúde. Programa Farmácia Popular do Brasil: 
+versus Tight Control of Systolic Blood Pressure in Non-Diabetic Patients Acesso aos Medicamentos [Internet]. Brasília: Ministério da Saúde; 
+with Hypertension (Cardio-Sis): An Open-Label Randomised Trial. Lancet. 2024 [cited 2024 Aug 31]. Available from: http://www.saude.gov.br/
+2009;374(9689):525-33. doi: 10.1016/S0140-6736(09)61340-4. farmaciapopular.
+
+Arq Bras Cardiol. 2025; 122(3):e20240761 10
+
+
+
+Brandão et al.
+Revisão Sistemática sobre Metas Intensivas do Tratamento Anti-Hipertensivo
+
+Artigo Original
+
+36.	 Claxton AJ, Cramer J, Pierce C. A Systematic Review of the Associations Synthesis. Patient Educ Couns. 2016;99(2):210-9. doi: 10.1016/j.
+between Dose Regimens and Medication Compliance. Clin Ther. pec.2015.08.026. 
+2001;23(8):1296-310. doi: 10.1016/s0149-2918(01)80109-0.
+
+39.	 Haynes RB, Ackloo E, Sahota N, McDonald HP, Yao X. Interventions 
+37.	 Gupta AK, Arshad S, Poulter NR. Compliance, Safety, and Effectiveness for Enhancing Medication Adherence. Cochrane Database Syst Rev. 
+
+of Fixed-Dose Combinations of Antihypertensive Agents: A Meta- 2008;(2):CD000011. doi: 10.1002/14651858.CD000011.pub3.
+Analys is .  Hypertension. 2010;55(2):399-407. doi:  10.1161/
+HYPERTENSIONAHA.109.139816. 40.	 National Institute for Health and Care Excellence. Cardiovascular Disease: 
+
+Risk Assessment and Reduction, Including Lipid Modification [Internet]. 
+38.	 Fletcher BR, Hinton L, Hartmann-Boyce J, Roberts NW, Bobrovitz London: NICE; 2014 [cited 2024 Aug 31]. Available from: https://www.nice.
+
+N, McManus RJ. Self-Monitoring Blood Pressure in Hypertension, org.uk/guidance/ng238/evidence/a-cvd-risk-assessment-tools-primary-
+Patient and Provider Perspectives: A Systematic Review and Thematic prevention-pdf-13253901661.
+
+*Material suplementar
+Para informação adicional, por favor, clique aqui.
+
+Este é um artigo de acesso aberto distribuído sob os termos da licença de atribuição pelo Creative Commons
+
+11 Arq Bras Cardiol. 2025; 122(3):e20240761

@@ -46,3 +46,47 @@ A utilização de datasets estruturados como este permite que algoritmos de **Ma
 * **Medicina Preventiva:** Previsão da probabilidade de um evento cardíaco com base no histórico clínico, permitindo intervenções precoces.
 * **Redução de Erros:** Apoio à decisão clínica, servindo como uma "segunda opinião" baseada em dados históricos globais.
 
+---
+## Parte 2 - Dados Textuais (NLP)
+Este repositório também inclui análises de textos médicos relacionados a cardiologia, estes textos foram selecionados com o propósito de serem utilizados para extrair insights clínicos relevantes através de técnicas de Processamento de Linguagem Natural (NLP).
+
+### 📄 Arquivo de texto: Estratégia Fármaco-Invasiva no Infarto do Miocárdio: Análise Descritiva, Apresentação de Sintomas Isquêmicos e Preditores de Mortalidade
+
+O texto médico sobre infarto do miocárdio será processado por NLP para:
+
+- **Extração de entidades (NER)**: Identificar sintomas (dor típica/atípica, dispneia), subgrupos (mulheres, idosos, diabéticos) e preditores (Killip-Kimball, ORs).
+
+- **Classificação de tópicos**: Separar seções como resumo, métodos, resultados e conclusão para análise estruturada.
+
+- **Análise de sentimentos**: Detectar tons positivos/negativos em achados (ex: disparidades em mulheres).
+
+- **Sumarização**: Gerar resumos automáticos de resultados chave, como mortalidade 5,6% e atrasos em subgrupos.
+
+---
+**Relevancia na analise desse texto para o projeto:**
+Essas análises com NLP pegam informações importantes do texto (sintomas, grupos de risco, atrasos no tratamento) e transformam em dados que a inteligência artificial entende rápido. No CardioIA, isso ajuda a:
+- detectar sintomas de infarto mais cedo (mesmo os atípicos em mulheres ou idosos),
+- prever quem tem mais risco de complicações,
+- reduzir atrasos no atendimento,
+- melhorar triagem, diagnósticos e alertas automáticos no sistema.
+
+---
+### 📄Arquivo de texto: Revisão Sistemática sobre a Eficácia de Metas Intensivas do Tratamento Anti-Hipertensivo: Recomendação da Sociedade Brasileira de Cardiologia (SBC)
+
+O texto sobre revisão sistemática da SBC será explorado por algoritmos de NLP para:
+
+- **Extração de entidades (NER)**: Identificar metas de pressão (<130/80 mmHg vs ≥130/80), desfechos (infarto, AVC, mortalidade, doença renal), medicamentos e fatores (idade, fragilidade, risco CV).
+- **Classificação de tópicos**: Separar resumo, métodos (ECRs, metanálise, GRADE), resultados (redução 13-17%) e conclusão (individualização do tratamento).
+- **Extração de relações**: Ligar metas intensivas → redução de eventos CV (13-17%), sem impacto na mortalidade total.
+- **Sumarização automática**: Gerar resumo curto dos achados principais (ex: evidência alta para redução de infarto/AVC).
+- **Análise de recomendações**: Detectar frases de orientação clínica (individualizar metas, priorizar adesão).
+
+---
+**Relevancia na analise desse texto para o projeto:**
+
+Essas análises com NLP pegam do texto coisas úteis como metas de pressão, redução de riscos (infarto, AVC) e recomendações da SBC.  
+No CardioIA, isso ajuda a:  
+- entender melhor como controlar a pressão alta para prevenir problemas cardíacos,  
+- identificar automaticamente as melhores metas de tratamento para cada paciente,  
+- alertar sobre riscos e adesão ao remédio de forma rápida,  
+- melhorar triagem, prevenção e decisões no sistema de cardiologia.
