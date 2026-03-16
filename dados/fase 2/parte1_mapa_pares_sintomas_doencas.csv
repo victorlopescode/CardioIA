@@ -1,0 +1,1169 @@
+condicao_id,sintoma_1,sintoma_2,doenca_associada,risco_sugerido,fontes_ids
+angina_estavel,alivia ao parar,cansaço ao esforço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,alivia ao parar,cansaço ao fazer atividade,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,alivia ao parar,desconforto no ombro,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,alivia ao parar,desconforto que vai para o braço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,alivia ao parar,diminuição da resistência física,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,alivia ao parar,dor que sobe para o pescoço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,alivia ao parar,fadiga ao esforço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,alivia ao parar,falta de ar no esforço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,alivia ao parar,fôlego curto ao subir ladeira,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,aperto no peito ao subir escadas,alivia ao parar,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,aperto no peito ao subir escadas,cansaço ao esforço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,aperto no peito ao subir escadas,cansaço ao fazer atividade,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,aperto no peito ao subir escadas,desconforto no ombro,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,aperto no peito ao subir escadas,desconforto que vai para o braço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,aperto no peito ao subir escadas,diminuição da resistência física,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,aperto no peito ao subir escadas,dor que sobe para o pescoço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,aperto no peito ao subir escadas,fadiga ao esforço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,aperto no peito ao subir escadas,falta de ar no esforço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,aperto no peito ao subir escadas,fôlego curto ao subir ladeira,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,aperto no peito ao subir escadas,melhora com repouso,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,aperto no peito ao subir escadas,passa quando descanso,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,cansaço ao esforço,cansaço ao fazer atividade,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,cansaço ao esforço,desconforto no ombro,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,cansaço ao esforço,desconforto que vai para o braço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,cansaço ao esforço,diminuição da resistência física,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,cansaço ao esforço,dor que sobe para o pescoço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,cansaço ao esforço,fadiga ao esforço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,cansaço ao fazer atividade,desconforto no ombro,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,cansaço ao fazer atividade,desconforto que vai para o braço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,cansaço ao fazer atividade,dor que sobe para o pescoço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,diminuição da resistência física,desconforto no ombro,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,diminuição da resistência física,desconforto que vai para o braço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,diminuição da resistência física,dor que sobe para o pescoço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,dor no peito ao esforço,alivia ao parar,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,dor no peito ao esforço,cansaço ao esforço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,dor no peito ao esforço,cansaço ao fazer atividade,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,dor no peito ao esforço,desconforto no ombro,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,dor no peito ao esforço,desconforto que vai para o braço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,dor no peito ao esforço,diminuição da resistência física,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,dor no peito ao esforço,dor que sobe para o pescoço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,dor no peito ao esforço,fadiga ao esforço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,dor no peito ao esforço,falta de ar no esforço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,dor no peito ao esforço,fôlego curto ao subir ladeira,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,dor no peito ao esforço,melhora com repouso,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,dor no peito ao esforço,passa quando descanso,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,fadiga ao esforço,desconforto no ombro,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,fadiga ao esforço,desconforto que vai para o braço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,fadiga ao esforço,dor que sobe para o pescoço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,falta de ar no esforço,cansaço ao fazer atividade,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,falta de ar no esforço,desconforto no ombro,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,falta de ar no esforço,desconforto que vai para o braço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,falta de ar no esforço,diminuição da resistência física,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,falta de ar no esforço,dor que sobe para o pescoço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,falta de ar no esforço,fadiga ao esforço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,fôlego curto ao subir ladeira,cansaço ao fazer atividade,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,fôlego curto ao subir ladeira,desconforto no ombro,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,fôlego curto ao subir ladeira,desconforto que vai para o braço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,fôlego curto ao subir ladeira,diminuição da resistência física,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,fôlego curto ao subir ladeira,dor que sobe para o pescoço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,fôlego curto ao subir ladeira,fadiga ao esforço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,melhora com repouso,cansaço ao esforço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,melhora com repouso,cansaço ao fazer atividade,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,melhora com repouso,desconforto no ombro,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,melhora com repouso,desconforto que vai para o braço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,melhora com repouso,diminuição da resistência física,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,melhora com repouso,dor que sobe para o pescoço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,melhora com repouso,fadiga ao esforço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,melhora com repouso,falta de ar no esforço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,melhora com repouso,fôlego curto ao subir ladeira,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,passa quando descanso,cansaço ao esforço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,passa quando descanso,cansaço ao fazer atividade,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,passa quando descanso,desconforto no ombro,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,passa quando descanso,desconforto que vai para o braço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,passa quando descanso,diminuição da resistência física,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,passa quando descanso,dor que sobe para o pescoço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,passa quando descanso,fadiga ao esforço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,passa quando descanso,falta de ar no esforço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,passa quando descanso,fôlego curto ao subir ladeira,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,pressão no peito ao caminhar rápido,alivia ao parar,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,pressão no peito ao caminhar rápido,cansaço ao esforço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,pressão no peito ao caminhar rápido,cansaço ao fazer atividade,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,pressão no peito ao caminhar rápido,desconforto no ombro,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,pressão no peito ao caminhar rápido,desconforto que vai para o braço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,pressão no peito ao caminhar rápido,diminuição da resistência física,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,pressão no peito ao caminhar rápido,dor que sobe para o pescoço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,pressão no peito ao caminhar rápido,fadiga ao esforço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,pressão no peito ao caminhar rápido,falta de ar no esforço,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,pressão no peito ao caminhar rápido,fôlego curto ao subir ladeira,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,pressão no peito ao caminhar rápido,melhora com repouso,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+angina_estavel,pressão no peito ao caminhar rápido,passa quando descanso,Angina Estável / Doença Coronariana,baixo_risco,S05|S06|S09
+arritmia_fibrilacao_atrial,cabeça leve,cansaço,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,cabeça leve,desconforto no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,cabeça leve,desmaio,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,cabeça leve,dificuldade para respirar,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,cabeça leve,dor no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,cabeça leve,fadiga,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,cabeça leve,falta de ar,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,cabeça leve,fraqueza,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,cabeça leve,pressão no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,cabeça leve,quase desmaio,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,cabeça leve,respiração curta,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,cabeça leve,sensação de desmaio,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração acelerado,cabeça leve,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração acelerado,cansaço,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração acelerado,desconforto no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração acelerado,desmaio,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração acelerado,dificuldade para respirar,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração acelerado,dor no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração acelerado,fadiga,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração acelerado,falta de ar,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração acelerado,fraqueza,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração acelerado,instabilidade,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração acelerado,pressão no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração acelerado,quase desmaio,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração acelerado,respiração curta,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração acelerado,sensação de desmaio,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração acelerado,tontura,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração disparado,cabeça leve,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração disparado,cansaço,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração disparado,desconforto no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração disparado,desmaio,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração disparado,dificuldade para respirar,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração disparado,dor no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração disparado,fadiga,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração disparado,falta de ar,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração disparado,fraqueza,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração disparado,instabilidade,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração disparado,pressão no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração disparado,quase desmaio,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração disparado,respiração curta,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração disparado,sensação de desmaio,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,coração disparado,tontura,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,desconforto no peito,cansaço,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,desconforto no peito,fadiga,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,desconforto no peito,fraqueza,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,desmaio,cansaço,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,desmaio,desconforto no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,desmaio,dificuldade para respirar,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,desmaio,dor no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,desmaio,fadiga,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,desmaio,falta de ar,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,desmaio,fraqueza,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,desmaio,pressão no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,desmaio,respiração curta,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,dificuldade para respirar,cansaço,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,dificuldade para respirar,desconforto no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,dificuldade para respirar,dor no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,dificuldade para respirar,fadiga,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,dificuldade para respirar,fraqueza,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,dificuldade para respirar,pressão no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,dor no peito,cansaço,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,dor no peito,fadiga,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,dor no peito,fraqueza,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,falta de ar,cansaço,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,falta de ar,desconforto no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,falta de ar,dor no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,falta de ar,fadiga,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,falta de ar,fraqueza,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,falta de ar,pressão no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,instabilidade,cansaço,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,instabilidade,desconforto no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,instabilidade,desmaio,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,instabilidade,dificuldade para respirar,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,instabilidade,dor no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,instabilidade,fadiga,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,instabilidade,falta de ar,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,instabilidade,fraqueza,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,instabilidade,pressão no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,instabilidade,quase desmaio,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,instabilidade,respiração curta,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,instabilidade,sensação de desmaio,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,palpitações,cabeça leve,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,palpitações,cansaço,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,palpitações,desconforto no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,palpitações,desmaio,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,palpitações,dificuldade para respirar,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,palpitações,dor no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,palpitações,fadiga,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,palpitações,falta de ar,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,palpitações,fraqueza,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,palpitações,instabilidade,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,palpitações,pressão no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,palpitações,quase desmaio,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,palpitações,respiração curta,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,palpitações,sensação de desmaio,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,palpitações,tontura,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,pressão no peito,cansaço,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,pressão no peito,fadiga,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,pressão no peito,fraqueza,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,quase desmaio,cansaço,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,quase desmaio,desconforto no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,quase desmaio,dificuldade para respirar,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,quase desmaio,dor no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,quase desmaio,fadiga,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,quase desmaio,falta de ar,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,quase desmaio,fraqueza,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,quase desmaio,pressão no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,quase desmaio,respiração curta,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,respiração curta,cansaço,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,respiração curta,desconforto no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,respiração curta,dor no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,respiração curta,fadiga,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,respiração curta,fraqueza,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,respiração curta,pressão no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,sensação de desmaio,cansaço,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,sensação de desmaio,desconforto no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,sensação de desmaio,dificuldade para respirar,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,sensação de desmaio,dor no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,sensação de desmaio,fadiga,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,sensação de desmaio,falta de ar,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,sensação de desmaio,fraqueza,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,sensação de desmaio,pressão no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,sensação de desmaio,respiração curta,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,tontura,cansaço,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,tontura,desconforto no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,tontura,desmaio,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,tontura,dificuldade para respirar,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,tontura,dor no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,tontura,fadiga,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,tontura,falta de ar,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,tontura,fraqueza,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,tontura,pressão no peito,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,tontura,quase desmaio,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,tontura,respiração curta,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+arritmia_fibrilacao_atrial,tontura,sensação de desmaio,Arritmia / Fibrilação Atrial,alto_risco,S03|S10|S11|S16
+bloqueio_conducao_bradiarritmia,apagão,batimento falhando,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,apagão,cabeça leve,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,apagão,cansaço intenso,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,apagão,coração muito lento ou irregular,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,apagão,dificuldade para respirar à noite,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,apagão,enjoo,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,apagão,fadiga,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,apagão,falta de ar,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,apagão,fraqueza,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,apagão,náusea,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,apagão,palpitações,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,apagão,respiração curta,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,apagão,tontura,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,batimento falhando,cansaço intenso,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,batimento falhando,dificuldade para respirar à noite,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,batimento falhando,enjoo,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,batimento falhando,fadiga,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,batimento falhando,falta de ar,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,batimento falhando,fraqueza,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,batimento falhando,náusea,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,batimento falhando,respiração curta,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,cabeça leve,batimento falhando,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,cabeça leve,cansaço intenso,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,cabeça leve,coração muito lento ou irregular,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,cabeça leve,dificuldade para respirar à noite,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,cabeça leve,enjoo,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,cabeça leve,fadiga,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,cabeça leve,falta de ar,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,cabeça leve,fraqueza,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,cabeça leve,náusea,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,cabeça leve,palpitações,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,cabeça leve,respiração curta,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,cansaço intenso,enjoo,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,cansaço intenso,náusea,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,coração muito lento ou irregular,cansaço intenso,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,coração muito lento ou irregular,dificuldade para respirar à noite,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,coração muito lento ou irregular,enjoo,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,coração muito lento ou irregular,fadiga,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,coração muito lento ou irregular,falta de ar,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,coração muito lento ou irregular,fraqueza,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,coração muito lento ou irregular,náusea,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,coração muito lento ou irregular,respiração curta,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desconforto no peito,apagão,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desconforto no peito,batimento falhando,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desconforto no peito,cabeça leve,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desconforto no peito,cansaço intenso,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desconforto no peito,coração muito lento ou irregular,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desconforto no peito,desmaio,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desconforto no peito,dificuldade para respirar à noite,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desconforto no peito,enjoo,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desconforto no peito,fadiga,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desconforto no peito,falta de ar,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desconforto no peito,fraqueza,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desconforto no peito,náusea,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desconforto no peito,palpitações,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desconforto no peito,quase desmaio,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desconforto no peito,respiração curta,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desconforto no peito,tontura,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desmaio,batimento falhando,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desmaio,cabeça leve,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desmaio,cansaço intenso,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desmaio,coração muito lento ou irregular,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desmaio,dificuldade para respirar à noite,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desmaio,enjoo,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desmaio,fadiga,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desmaio,falta de ar,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desmaio,fraqueza,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desmaio,náusea,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desmaio,palpitações,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desmaio,respiração curta,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,desmaio,tontura,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,dificuldade para respirar à noite,cansaço intenso,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,dificuldade para respirar à noite,enjoo,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,dificuldade para respirar à noite,fadiga,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,dificuldade para respirar à noite,fraqueza,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,dificuldade para respirar à noite,náusea,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,dor no peito,apagão,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,dor no peito,batimento falhando,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,dor no peito,cabeça leve,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,dor no peito,cansaço intenso,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,dor no peito,coração muito lento ou irregular,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,dor no peito,desmaio,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,dor no peito,dificuldade para respirar à noite,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,dor no peito,enjoo,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,dor no peito,fadiga,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,dor no peito,falta de ar,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,dor no peito,fraqueza,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,dor no peito,náusea,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,dor no peito,palpitações,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,dor no peito,quase desmaio,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,dor no peito,respiração curta,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,dor no peito,tontura,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,fadiga,enjoo,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,fadiga,náusea,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,falta de ar,cansaço intenso,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,falta de ar,enjoo,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,falta de ar,fadiga,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,falta de ar,fraqueza,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,falta de ar,náusea,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,fraqueza,enjoo,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,fraqueza,náusea,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,palpitações,cansaço intenso,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,palpitações,dificuldade para respirar à noite,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,palpitações,enjoo,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,palpitações,fadiga,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,palpitações,falta de ar,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,palpitações,fraqueza,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,palpitações,náusea,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,palpitações,respiração curta,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,quase desmaio,batimento falhando,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,quase desmaio,cabeça leve,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,quase desmaio,cansaço intenso,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,quase desmaio,coração muito lento ou irregular,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,quase desmaio,dificuldade para respirar à noite,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,quase desmaio,enjoo,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,quase desmaio,fadiga,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,quase desmaio,falta de ar,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,quase desmaio,fraqueza,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,quase desmaio,náusea,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,quase desmaio,palpitações,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,quase desmaio,respiração curta,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,quase desmaio,tontura,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,respiração curta,cansaço intenso,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,respiração curta,enjoo,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,respiração curta,fadiga,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,respiração curta,fraqueza,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,respiração curta,náusea,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,tontura,batimento falhando,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,tontura,cansaço intenso,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,tontura,coração muito lento ou irregular,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,tontura,dificuldade para respirar à noite,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,tontura,enjoo,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,tontura,fadiga,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,tontura,falta de ar,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,tontura,fraqueza,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,tontura,náusea,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,tontura,palpitações,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+bloqueio_conducao_bradiarritmia,tontura,respiração curta,Bloqueio de Condução / Bradiarritmia,alto_risco,S03|S10
+cardiomiopatia,batimentos irregulares,barriga inchada,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,batimentos irregulares,inchaço nas pernas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,batimentos irregulares,mãos inchadas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,cansaço mesmo depois de descansar,barriga inchada,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,cansaço mesmo depois de descansar,batimentos irregulares,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,cansaço mesmo depois de descansar,coração acelerado,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,cansaço mesmo depois de descansar,desmaio,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,cansaço mesmo depois de descansar,inchaço nas pernas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,cansaço mesmo depois de descansar,mãos inchadas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,cansaço mesmo depois de descansar,palpitações,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,cansaço mesmo depois de descansar,quase desmaio,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,cansaço mesmo depois de descansar,tontura,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,coração acelerado,barriga inchada,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,coração acelerado,inchaço nas pernas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,coração acelerado,mãos inchadas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,desmaio,barriga inchada,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,desmaio,batimentos irregulares,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,desmaio,coração acelerado,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,desmaio,inchaço nas pernas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,desmaio,mãos inchadas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,desmaio,palpitações,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dispneia ao esforço,barriga inchada,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dispneia ao esforço,batimentos irregulares,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dispneia ao esforço,cansaço mesmo depois de descansar,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dispneia ao esforço,coração acelerado,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dispneia ao esforço,desmaio,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dispneia ao esforço,dor no peito após esforço,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dispneia ao esforço,dor no peito depois de refeição pesada,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dispneia ao esforço,fadiga mesmo em repouso,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dispneia ao esforço,fraqueza persistente,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dispneia ao esforço,inchaço nas pernas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dispneia ao esforço,mãos inchadas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dispneia ao esforço,palpitações,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dispneia ao esforço,pressão no peito após atividade,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dispneia ao esforço,quase desmaio,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dispneia ao esforço,tontura,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dor no peito após esforço,barriga inchada,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dor no peito após esforço,batimentos irregulares,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dor no peito após esforço,cansaço mesmo depois de descansar,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dor no peito após esforço,coração acelerado,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dor no peito após esforço,desmaio,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dor no peito após esforço,fadiga mesmo em repouso,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dor no peito após esforço,fraqueza persistente,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dor no peito após esforço,inchaço nas pernas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dor no peito após esforço,mãos inchadas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dor no peito após esforço,palpitações,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dor no peito após esforço,quase desmaio,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dor no peito após esforço,tontura,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dor no peito depois de refeição pesada,barriga inchada,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dor no peito depois de refeição pesada,batimentos irregulares,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dor no peito depois de refeição pesada,cansaço mesmo depois de descansar,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dor no peito depois de refeição pesada,coração acelerado,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dor no peito depois de refeição pesada,desmaio,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dor no peito depois de refeição pesada,fadiga mesmo em repouso,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dor no peito depois de refeição pesada,fraqueza persistente,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dor no peito depois de refeição pesada,inchaço nas pernas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dor no peito depois de refeição pesada,mãos inchadas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dor no peito depois de refeição pesada,palpitações,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dor no peito depois de refeição pesada,quase desmaio,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,dor no peito depois de refeição pesada,tontura,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,fadiga mesmo em repouso,barriga inchada,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,fadiga mesmo em repouso,batimentos irregulares,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,fadiga mesmo em repouso,coração acelerado,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,fadiga mesmo em repouso,desmaio,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,fadiga mesmo em repouso,inchaço nas pernas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,fadiga mesmo em repouso,mãos inchadas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,fadiga mesmo em repouso,palpitações,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,fadiga mesmo em repouso,quase desmaio,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,fadiga mesmo em repouso,tontura,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar após esforço,barriga inchada,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar após esforço,batimentos irregulares,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar após esforço,cansaço mesmo depois de descansar,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar após esforço,coração acelerado,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar após esforço,desmaio,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar após esforço,dor no peito após esforço,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar após esforço,dor no peito depois de refeição pesada,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar após esforço,fadiga mesmo em repouso,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar após esforço,fraqueza persistente,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar após esforço,inchaço nas pernas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar após esforço,mãos inchadas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar após esforço,palpitações,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar após esforço,pressão no peito após atividade,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar após esforço,quase desmaio,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar após esforço,tontura,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar depois de comer muito,barriga inchada,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar depois de comer muito,batimentos irregulares,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar depois de comer muito,cansaço mesmo depois de descansar,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar depois de comer muito,coração acelerado,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar depois de comer muito,desmaio,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar depois de comer muito,dor no peito após esforço,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar depois de comer muito,dor no peito depois de refeição pesada,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar depois de comer muito,fadiga mesmo em repouso,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar depois de comer muito,fraqueza persistente,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar depois de comer muito,inchaço nas pernas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar depois de comer muito,mãos inchadas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar depois de comer muito,palpitações,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar depois de comer muito,pressão no peito após atividade,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar depois de comer muito,quase desmaio,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,falta de ar depois de comer muito,tontura,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,fraqueza persistente,barriga inchada,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,fraqueza persistente,batimentos irregulares,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,fraqueza persistente,coração acelerado,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,fraqueza persistente,desmaio,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,fraqueza persistente,inchaço nas pernas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,fraqueza persistente,mãos inchadas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,fraqueza persistente,palpitações,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,fraqueza persistente,quase desmaio,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,fraqueza persistente,tontura,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,palpitações,barriga inchada,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,palpitações,inchaço nas pernas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,palpitações,mãos inchadas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,pressão no peito após atividade,barriga inchada,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,pressão no peito após atividade,batimentos irregulares,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,pressão no peito após atividade,cansaço mesmo depois de descansar,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,pressão no peito após atividade,coração acelerado,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,pressão no peito após atividade,desmaio,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,pressão no peito após atividade,fadiga mesmo em repouso,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,pressão no peito após atividade,fraqueza persistente,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,pressão no peito após atividade,inchaço nas pernas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,pressão no peito após atividade,mãos inchadas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,pressão no peito após atividade,palpitações,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,pressão no peito após atividade,quase desmaio,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,pressão no peito após atividade,tontura,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,quase desmaio,barriga inchada,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,quase desmaio,batimentos irregulares,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,quase desmaio,coração acelerado,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,quase desmaio,inchaço nas pernas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,quase desmaio,mãos inchadas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,quase desmaio,palpitações,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,tontura,barriga inchada,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,tontura,batimentos irregulares,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,tontura,coração acelerado,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,tontura,inchaço nas pernas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,tontura,mãos inchadas,Cardiomiopatia,alto_risco,S13
+cardiomiopatia,tontura,palpitações,Cardiomiopatia,alto_risco,S13
+choque_cardiogenico,batimento fraco,desmaio prolongado,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,batimento fraco,estou urinando muito pouco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,batimento fraco,falta de ar intensa,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,batimento fraco,inchaço nos pés,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,batimento fraco,mãos frias,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,batimento fraco,pele fria,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,batimento fraco,pele pegajosa,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,batimento fraco,perda de consciência,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,batimento fraco,pouca urina,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,batimento fraco,pés inchados,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,batimento fraco,quase não urinei,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,batimento fraco,respiração muito rápida,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,batimento fraco,severa dificuldade para respirar,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,confusão,batimento fraco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,confusão,desmaio prolongado,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,confusão,estou urinando muito pouco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,confusão,falta de ar intensa,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,confusão,inchaço nos pés,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,confusão,mãos frias,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,confusão,pele fria,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,confusão,pele pegajosa,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,confusão,perda de consciência,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,confusão,pouca urina,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,confusão,pulso fraco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,confusão,pulso irregular e fraco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,confusão,pés inchados,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,confusão,quase não urinei,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,confusão,respiração muito rápida,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,confusão,severa dificuldade para respirar,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,desmaio prolongado,inchaço nos pés,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,desmaio prolongado,pés inchados,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,desorientação,batimento fraco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,desorientação,desmaio prolongado,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,desorientação,estou urinando muito pouco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,desorientação,falta de ar intensa,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,desorientação,inchaço nos pés,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,desorientação,mãos frias,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,desorientação,pele fria,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,desorientação,pele pegajosa,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,desorientação,perda de consciência,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,desorientação,pouca urina,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,desorientação,pulso fraco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,desorientação,pulso irregular e fraco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,desorientação,pés inchados,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,desorientação,quase não urinei,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,desorientação,respiração muito rápida,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,desorientação,severa dificuldade para respirar,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,estou urinando muito pouco,desmaio prolongado,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,estou urinando muito pouco,inchaço nos pés,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,estou urinando muito pouco,perda de consciência,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,estou urinando muito pouco,pés inchados,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,falta de ar intensa,desmaio prolongado,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,falta de ar intensa,estou urinando muito pouco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,falta de ar intensa,inchaço nos pés,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,falta de ar intensa,mãos frias,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,falta de ar intensa,pele fria,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,falta de ar intensa,pele pegajosa,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,falta de ar intensa,perda de consciência,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,falta de ar intensa,pouca urina,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,falta de ar intensa,pés inchados,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,falta de ar intensa,quase não urinei,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,mãos frias,desmaio prolongado,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,mãos frias,estou urinando muito pouco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,mãos frias,inchaço nos pés,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,mãos frias,perda de consciência,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,mãos frias,pouca urina,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,mãos frias,pés inchados,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,mãos frias,quase não urinei,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pele fria,desmaio prolongado,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pele fria,estou urinando muito pouco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pele fria,inchaço nos pés,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pele fria,perda de consciência,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pele fria,pouca urina,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pele fria,pés inchados,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pele fria,quase não urinei,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pele pegajosa,desmaio prolongado,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pele pegajosa,estou urinando muito pouco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pele pegajosa,inchaço nos pés,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pele pegajosa,perda de consciência,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pele pegajosa,pouca urina,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pele pegajosa,pés inchados,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pele pegajosa,quase não urinei,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,perda de consciência,inchaço nos pés,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,perda de consciência,pés inchados,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pouca urina,desmaio prolongado,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pouca urina,inchaço nos pés,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pouca urina,perda de consciência,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pouca urina,pés inchados,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão baixa,batimento fraco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão baixa,confusão,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão baixa,desmaio prolongado,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão baixa,desorientação,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão baixa,estou urinando muito pouco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão baixa,falta de ar intensa,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão baixa,inchaço nos pés,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão baixa,mãos frias,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão baixa,pele fria,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão baixa,pele pegajosa,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão baixa,perda de consciência,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão baixa,pouca urina,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão baixa,pulso fraco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão baixa,pulso irregular e fraco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão baixa,pés inchados,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão baixa,quase não urinei,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão baixa,respiração muito rápida,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão baixa,severa dificuldade para respirar,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão baixa,tontura intensa,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão despencando,batimento fraco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão despencando,confusão,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão despencando,desmaio prolongado,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão despencando,desorientação,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão despencando,estou urinando muito pouco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão despencando,falta de ar intensa,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão despencando,inchaço nos pés,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão despencando,mãos frias,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão despencando,pele fria,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão despencando,pele pegajosa,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão despencando,perda de consciência,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão despencando,pouca urina,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão despencando,pulso fraco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão despencando,pulso irregular e fraco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão despencando,pés inchados,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão despencando,quase não urinei,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão despencando,respiração muito rápida,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão despencando,severa dificuldade para respirar,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pressão despencando,tontura intensa,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pulso fraco,desmaio prolongado,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pulso fraco,estou urinando muito pouco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pulso fraco,falta de ar intensa,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pulso fraco,inchaço nos pés,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pulso fraco,mãos frias,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pulso fraco,pele fria,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pulso fraco,pele pegajosa,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pulso fraco,perda de consciência,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pulso fraco,pouca urina,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pulso fraco,pés inchados,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pulso fraco,quase não urinei,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pulso fraco,respiração muito rápida,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pulso fraco,severa dificuldade para respirar,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pulso irregular e fraco,desmaio prolongado,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pulso irregular e fraco,estou urinando muito pouco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pulso irregular e fraco,falta de ar intensa,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pulso irregular e fraco,inchaço nos pés,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pulso irregular e fraco,mãos frias,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pulso irregular e fraco,pele fria,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pulso irregular e fraco,pele pegajosa,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pulso irregular e fraco,perda de consciência,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pulso irregular e fraco,pouca urina,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pulso irregular e fraco,pés inchados,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pulso irregular e fraco,quase não urinei,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pulso irregular e fraco,respiração muito rápida,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,pulso irregular e fraco,severa dificuldade para respirar,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,quase não urinei,desmaio prolongado,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,quase não urinei,inchaço nos pés,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,quase não urinei,perda de consciência,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,quase não urinei,pés inchados,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,queda de pressão,batimento fraco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,queda de pressão,confusão,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,queda de pressão,desmaio prolongado,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,queda de pressão,desorientação,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,queda de pressão,estou urinando muito pouco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,queda de pressão,falta de ar intensa,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,queda de pressão,inchaço nos pés,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,queda de pressão,mãos frias,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,queda de pressão,pele fria,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,queda de pressão,pele pegajosa,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,queda de pressão,perda de consciência,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,queda de pressão,pouca urina,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,queda de pressão,pulso fraco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,queda de pressão,pulso irregular e fraco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,queda de pressão,pés inchados,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,queda de pressão,quase não urinei,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,queda de pressão,respiração muito rápida,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,queda de pressão,severa dificuldade para respirar,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,queda de pressão,tontura intensa,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,respiração muito rápida,desmaio prolongado,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,respiração muito rápida,estou urinando muito pouco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,respiração muito rápida,inchaço nos pés,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,respiração muito rápida,mãos frias,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,respiração muito rápida,pele fria,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,respiração muito rápida,pele pegajosa,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,respiração muito rápida,perda de consciência,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,respiração muito rápida,pouca urina,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,respiração muito rápida,pés inchados,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,respiração muito rápida,quase não urinei,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,severa dificuldade para respirar,desmaio prolongado,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,severa dificuldade para respirar,estou urinando muito pouco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,severa dificuldade para respirar,inchaço nos pés,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,severa dificuldade para respirar,mãos frias,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,severa dificuldade para respirar,pele fria,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,severa dificuldade para respirar,pele pegajosa,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,severa dificuldade para respirar,perda de consciência,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,severa dificuldade para respirar,pouca urina,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,severa dificuldade para respirar,pés inchados,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,severa dificuldade para respirar,quase não urinei,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,tontura intensa,batimento fraco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,tontura intensa,desmaio prolongado,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,tontura intensa,estou urinando muito pouco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,tontura intensa,falta de ar intensa,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,tontura intensa,inchaço nos pés,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,tontura intensa,mãos frias,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,tontura intensa,pele fria,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,tontura intensa,pele pegajosa,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,tontura intensa,perda de consciência,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,tontura intensa,pouca urina,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,tontura intensa,pulso fraco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,tontura intensa,pulso irregular e fraco,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,tontura intensa,pés inchados,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,tontura intensa,quase não urinei,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,tontura intensa,respiração muito rápida,Choque Cardiogênico,alto_risco,S14
+choque_cardiogenico,tontura intensa,severa dificuldade para respirar,Choque Cardiogênico,alto_risco,S14
+doenca_valvar_estenose_aortica,angina,abdome inchado,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,angina,batimento irregular,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,angina,cansaço para caminhar pequenas distâncias,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,angina,coração acelerado,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,angina,desmaio,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,angina,dificuldade para respirar,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,angina,falta de ar,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,angina,fôlego curto ao caminhar,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,angina,palpitações,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,angina,pés inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,angina,quase desmaio,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,angina,queda do nível de atividade,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,angina,redução da capacidade de esforço,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,angina,tontura,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,angina,tornozelos inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,aperto no peito,abdome inchado,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,aperto no peito,batimento irregular,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,aperto no peito,cansaço para caminhar pequenas distâncias,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,aperto no peito,coração acelerado,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,aperto no peito,desmaio,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,aperto no peito,dificuldade para respirar,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,aperto no peito,falta de ar,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,aperto no peito,fôlego curto ao caminhar,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,aperto no peito,palpitações,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,aperto no peito,pés inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,aperto no peito,quase desmaio,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,aperto no peito,queda do nível de atividade,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,aperto no peito,redução da capacidade de esforço,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,aperto no peito,tontura,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,aperto no peito,tornozelos inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,batimento irregular,abdome inchado,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,batimento irregular,cansaço para caminhar pequenas distâncias,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,batimento irregular,desmaio,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,batimento irregular,pés inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,batimento irregular,quase desmaio,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,batimento irregular,queda do nível de atividade,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,batimento irregular,redução da capacidade de esforço,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,batimento irregular,tontura,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,batimento irregular,tornozelos inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,cansaço para caminhar pequenas distâncias,abdome inchado,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,cansaço para caminhar pequenas distâncias,pés inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,cansaço para caminhar pequenas distâncias,tornozelos inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,coração acelerado,abdome inchado,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,coração acelerado,cansaço para caminhar pequenas distâncias,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,coração acelerado,desmaio,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,coração acelerado,pés inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,coração acelerado,quase desmaio,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,coração acelerado,queda do nível de atividade,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,coração acelerado,redução da capacidade de esforço,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,coração acelerado,tontura,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,coração acelerado,tornozelos inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,desmaio,abdome inchado,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,desmaio,cansaço para caminhar pequenas distâncias,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,desmaio,pés inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,desmaio,queda do nível de atividade,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,desmaio,redução da capacidade de esforço,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,desmaio,tornozelos inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dificuldade para respirar,abdome inchado,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dificuldade para respirar,batimento irregular,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dificuldade para respirar,cansaço para caminhar pequenas distâncias,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dificuldade para respirar,coração acelerado,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dificuldade para respirar,desmaio,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dificuldade para respirar,palpitações,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dificuldade para respirar,pés inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dificuldade para respirar,quase desmaio,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dificuldade para respirar,queda do nível de atividade,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dificuldade para respirar,redução da capacidade de esforço,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dificuldade para respirar,tontura,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dificuldade para respirar,tornozelos inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dor no peito,abdome inchado,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dor no peito,batimento irregular,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dor no peito,cansaço para caminhar pequenas distâncias,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dor no peito,coração acelerado,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dor no peito,desmaio,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dor no peito,dificuldade para respirar,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dor no peito,falta de ar,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dor no peito,fôlego curto ao caminhar,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dor no peito,palpitações,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dor no peito,pés inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dor no peito,quase desmaio,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dor no peito,queda do nível de atividade,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dor no peito,redução da capacidade de esforço,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dor no peito,tontura,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,dor no peito,tornozelos inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,falta de ar,abdome inchado,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,falta de ar,batimento irregular,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,falta de ar,cansaço para caminhar pequenas distâncias,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,falta de ar,coração acelerado,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,falta de ar,desmaio,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,falta de ar,palpitações,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,falta de ar,pés inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,falta de ar,quase desmaio,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,falta de ar,queda do nível de atividade,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,falta de ar,redução da capacidade de esforço,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,falta de ar,tontura,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,falta de ar,tornozelos inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,fôlego curto ao caminhar,abdome inchado,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,fôlego curto ao caminhar,batimento irregular,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,fôlego curto ao caminhar,cansaço para caminhar pequenas distâncias,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,fôlego curto ao caminhar,coração acelerado,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,fôlego curto ao caminhar,desmaio,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,fôlego curto ao caminhar,palpitações,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,fôlego curto ao caminhar,pés inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,fôlego curto ao caminhar,quase desmaio,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,fôlego curto ao caminhar,queda do nível de atividade,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,fôlego curto ao caminhar,redução da capacidade de esforço,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,fôlego curto ao caminhar,tontura,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,fôlego curto ao caminhar,tornozelos inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,palpitações,abdome inchado,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,palpitações,cansaço para caminhar pequenas distâncias,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,palpitações,desmaio,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,palpitações,pés inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,palpitações,quase desmaio,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,palpitações,queda do nível de atividade,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,palpitações,redução da capacidade de esforço,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,palpitações,tontura,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,palpitações,tornozelos inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,quase desmaio,abdome inchado,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,quase desmaio,cansaço para caminhar pequenas distâncias,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,quase desmaio,pés inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,quase desmaio,queda do nível de atividade,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,quase desmaio,redução da capacidade de esforço,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,quase desmaio,tornozelos inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,queda do nível de atividade,abdome inchado,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,queda do nível de atividade,pés inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,queda do nível de atividade,tornozelos inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,redução da capacidade de esforço,abdome inchado,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,redução da capacidade de esforço,pés inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,redução da capacidade de esforço,tornozelos inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,tontura,abdome inchado,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,tontura,cansaço para caminhar pequenas distâncias,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,tontura,pés inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,tontura,queda do nível de atividade,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,tontura,redução da capacidade de esforço,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+doenca_valvar_estenose_aortica,tontura,tornozelos inchados,Doença Valvar / Estenose Aórtica,alto_risco,S04|S12
+insuficiencia_cardiaca,cansaço constante,aumento rápido do peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,cansaço constante,chiado no peito,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,cansaço constante,engordei de repente por retenção,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,cansaço constante,ganho rápido de peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,cansaço constante,tosse noturna,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,cansaço constante,tosse persistente,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,cansaço para respirar,aumento rápido do peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,cansaço para respirar,cansaço constante,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,cansaço para respirar,chiado no peito,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,cansaço para respirar,engordei de repente por retenção,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,cansaço para respirar,fadiga constante,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,cansaço para respirar,falta de ar ao deitar,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,cansaço para respirar,fraqueza para atividades diárias,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,cansaço para respirar,ganho rápido de peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,cansaço para respirar,inchaço nas pernas,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,cansaço para respirar,inchaço nos tornozelos,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,cansaço para respirar,pioro quando deito,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,cansaço para respirar,preciso de vários travesseiros para dormir,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,cansaço para respirar,pés inchados,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,cansaço para respirar,tosse noturna,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,cansaço para respirar,tosse persistente,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,chiado no peito,aumento rápido do peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,chiado no peito,engordei de repente por retenção,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,chiado no peito,ganho rápido de peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,dificuldade para respirar,aumento rápido do peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,dificuldade para respirar,cansaço constante,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,dificuldade para respirar,chiado no peito,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,dificuldade para respirar,engordei de repente por retenção,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,dificuldade para respirar,fadiga constante,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,dificuldade para respirar,falta de ar ao deitar,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,dificuldade para respirar,fraqueza para atividades diárias,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,dificuldade para respirar,ganho rápido de peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,dificuldade para respirar,inchaço nas pernas,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,dificuldade para respirar,inchaço nos tornozelos,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,dificuldade para respirar,pioro quando deito,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,dificuldade para respirar,preciso de vários travesseiros para dormir,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,dificuldade para respirar,pés inchados,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,dificuldade para respirar,tosse noturna,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,dificuldade para respirar,tosse persistente,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,fadiga constante,aumento rápido do peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,fadiga constante,chiado no peito,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,fadiga constante,engordei de repente por retenção,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,fadiga constante,ganho rápido de peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,fadiga constante,tosse noturna,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,fadiga constante,tosse persistente,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar,aumento rápido do peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar,cansaço constante,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar,chiado no peito,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar,engordei de repente por retenção,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar,fadiga constante,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar,falta de ar ao deitar,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar,fraqueza para atividades diárias,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar,ganho rápido de peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar,inchaço nas pernas,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar,inchaço nos tornozelos,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar,pioro quando deito,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar,preciso de vários travesseiros para dormir,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar,pés inchados,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar,tosse noturna,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar,tosse persistente,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar ao deitar,aumento rápido do peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar ao deitar,cansaço constante,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar ao deitar,chiado no peito,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar ao deitar,engordei de repente por retenção,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar ao deitar,fadiga constante,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar ao deitar,fraqueza para atividades diárias,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar ao deitar,ganho rápido de peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar ao deitar,inchaço nas pernas,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar ao deitar,inchaço nos tornozelos,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar ao deitar,pés inchados,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar ao deitar,tosse noturna,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,falta de ar ao deitar,tosse persistente,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,fraqueza para atividades diárias,aumento rápido do peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,fraqueza para atividades diárias,chiado no peito,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,fraqueza para atividades diárias,engordei de repente por retenção,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,fraqueza para atividades diárias,ganho rápido de peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,fraqueza para atividades diárias,tosse noturna,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,fraqueza para atividades diárias,tosse persistente,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,inchaço nas pernas,aumento rápido do peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,inchaço nas pernas,cansaço constante,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,inchaço nas pernas,chiado no peito,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,inchaço nas pernas,engordei de repente por retenção,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,inchaço nas pernas,fadiga constante,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,inchaço nas pernas,fraqueza para atividades diárias,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,inchaço nas pernas,ganho rápido de peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,inchaço nas pernas,tosse noturna,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,inchaço nas pernas,tosse persistente,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,inchaço nos tornozelos,aumento rápido do peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,inchaço nos tornozelos,cansaço constante,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,inchaço nos tornozelos,chiado no peito,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,inchaço nos tornozelos,engordei de repente por retenção,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,inchaço nos tornozelos,fadiga constante,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,inchaço nos tornozelos,fraqueza para atividades diárias,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,inchaço nos tornozelos,ganho rápido de peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,inchaço nos tornozelos,tosse noturna,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,inchaço nos tornozelos,tosse persistente,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,pioro quando deito,aumento rápido do peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,pioro quando deito,cansaço constante,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,pioro quando deito,chiado no peito,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,pioro quando deito,engordei de repente por retenção,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,pioro quando deito,fadiga constante,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,pioro quando deito,fraqueza para atividades diárias,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,pioro quando deito,ganho rápido de peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,pioro quando deito,inchaço nas pernas,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,pioro quando deito,inchaço nos tornozelos,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,pioro quando deito,pés inchados,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,pioro quando deito,tosse noturna,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,pioro quando deito,tosse persistente,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,preciso de vários travesseiros para dormir,aumento rápido do peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,preciso de vários travesseiros para dormir,cansaço constante,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,preciso de vários travesseiros para dormir,chiado no peito,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,preciso de vários travesseiros para dormir,engordei de repente por retenção,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,preciso de vários travesseiros para dormir,fadiga constante,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,preciso de vários travesseiros para dormir,fraqueza para atividades diárias,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,preciso de vários travesseiros para dormir,ganho rápido de peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,preciso de vários travesseiros para dormir,inchaço nas pernas,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,preciso de vários travesseiros para dormir,inchaço nos tornozelos,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,preciso de vários travesseiros para dormir,pés inchados,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,preciso de vários travesseiros para dormir,tosse noturna,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,preciso de vários travesseiros para dormir,tosse persistente,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,pés inchados,aumento rápido do peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,pés inchados,cansaço constante,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,pés inchados,chiado no peito,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,pés inchados,engordei de repente por retenção,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,pés inchados,fadiga constante,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,pés inchados,fraqueza para atividades diárias,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,pés inchados,ganho rápido de peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,pés inchados,tosse noturna,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,pés inchados,tosse persistente,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,tosse noturna,aumento rápido do peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,tosse noturna,engordei de repente por retenção,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,tosse noturna,ganho rápido de peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,tosse persistente,aumento rápido do peso,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,tosse persistente,engordei de repente por retenção,Insuficiência Cardíaca,alto_risco,S02|S16
+insuficiencia_cardiaca,tosse persistente,ganho rápido de peso,Insuficiência Cardíaca,alto_risco,S02|S16
+sindrome_coronariana_aguda,aperto no peito,cabeça leve,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,aperto no peito,cansaço incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,aperto no peito,dificuldade para respirar,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,aperto no peito,dor nas costas,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,aperto no peito,dor no braço esquerdo,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,aperto no peito,dor nos dois braços,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,aperto no peito,enjoo,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,aperto no peito,fadiga incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,aperto no peito,falta de ar,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,aperto no peito,fraqueza súbita,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,aperto no peito,mal-estar com tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,aperto no peito,náusea,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,aperto no peito,respiração curta,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,aperto no peito,sudorese intensa,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,aperto no peito,suor frio,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,aperto no peito,tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,aperto no peito,transpiração fria,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,aperto no peito,vontade de vomitar,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,cabeça leve,cansaço incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,cabeça leve,fadiga incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,cabeça leve,fraqueza súbita,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dificuldade para respirar,cabeça leve,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dificuldade para respirar,cansaço incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dificuldade para respirar,enjoo,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dificuldade para respirar,fadiga incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dificuldade para respirar,fraqueza súbita,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dificuldade para respirar,mal-estar com tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dificuldade para respirar,náusea,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dificuldade para respirar,sudorese intensa,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dificuldade para respirar,suor frio,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dificuldade para respirar,tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dificuldade para respirar,transpiração fria,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dificuldade para respirar,vontade de vomitar,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nas costas,cabeça leve,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nas costas,cansaço incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nas costas,dificuldade para respirar,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nas costas,enjoo,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nas costas,fadiga incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nas costas,falta de ar,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nas costas,fraqueza súbita,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nas costas,mal-estar com tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nas costas,náusea,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nas costas,respiração curta,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nas costas,sudorese intensa,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nas costas,suor frio,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nas costas,tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nas costas,transpiração fria,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nas costas,vontade de vomitar,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no braço esquerdo,cabeça leve,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no braço esquerdo,cansaço incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no braço esquerdo,dificuldade para respirar,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no braço esquerdo,enjoo,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no braço esquerdo,fadiga incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no braço esquerdo,falta de ar,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no braço esquerdo,fraqueza súbita,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no braço esquerdo,mal-estar com tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no braço esquerdo,náusea,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no braço esquerdo,respiração curta,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no braço esquerdo,sudorese intensa,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no braço esquerdo,suor frio,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no braço esquerdo,tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no braço esquerdo,transpiração fria,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no braço esquerdo,vontade de vomitar,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no peito,cabeça leve,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no peito,cansaço incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no peito,dificuldade para respirar,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no peito,dor nas costas,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no peito,dor no braço esquerdo,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no peito,dor nos dois braços,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no peito,enjoo,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no peito,fadiga incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no peito,falta de ar,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no peito,fraqueza súbita,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no peito,mal-estar com tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no peito,náusea,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no peito,respiração curta,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no peito,sudorese intensa,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no peito,suor frio,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no peito,tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no peito,transpiração fria,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor no peito,vontade de vomitar,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nos dois braços,cabeça leve,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nos dois braços,cansaço incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nos dois braços,dificuldade para respirar,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nos dois braços,enjoo,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nos dois braços,fadiga incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nos dois braços,falta de ar,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nos dois braços,fraqueza súbita,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nos dois braços,mal-estar com tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nos dois braços,náusea,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nos dois braços,respiração curta,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nos dois braços,sudorese intensa,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nos dois braços,suor frio,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nos dois braços,tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nos dois braços,transpiração fria,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,dor nos dois braços,vontade de vomitar,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,enjoo,cabeça leve,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,enjoo,cansaço incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,enjoo,fadiga incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,enjoo,fraqueza súbita,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,enjoo,mal-estar com tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,enjoo,tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,falta de ar,cabeça leve,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,falta de ar,cansaço incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,falta de ar,enjoo,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,falta de ar,fadiga incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,falta de ar,fraqueza súbita,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,falta de ar,mal-estar com tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,falta de ar,náusea,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,falta de ar,sudorese intensa,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,falta de ar,suor frio,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,falta de ar,tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,falta de ar,transpiração fria,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,falta de ar,vontade de vomitar,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,mal-estar com tontura,cansaço incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,mal-estar com tontura,fadiga incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,mal-estar com tontura,fraqueza súbita,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,náusea,cabeça leve,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,náusea,cansaço incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,náusea,fadiga incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,náusea,fraqueza súbita,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,náusea,mal-estar com tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,náusea,tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,pressão no peito,cabeça leve,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,pressão no peito,cansaço incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,pressão no peito,dificuldade para respirar,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,pressão no peito,dor nas costas,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,pressão no peito,dor no braço esquerdo,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,pressão no peito,dor nos dois braços,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,pressão no peito,enjoo,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,pressão no peito,fadiga incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,pressão no peito,falta de ar,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,pressão no peito,fraqueza súbita,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,pressão no peito,mal-estar com tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,pressão no peito,náusea,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,pressão no peito,respiração curta,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,pressão no peito,sudorese intensa,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,pressão no peito,suor frio,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,pressão no peito,tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,pressão no peito,transpiração fria,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,pressão no peito,vontade de vomitar,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,respiração curta,cabeça leve,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,respiração curta,cansaço incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,respiração curta,enjoo,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,respiração curta,fadiga incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,respiração curta,fraqueza súbita,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,respiração curta,mal-estar com tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,respiração curta,náusea,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,respiração curta,sudorese intensa,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,respiração curta,suor frio,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,respiração curta,tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,respiração curta,transpiração fria,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,respiração curta,vontade de vomitar,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,sudorese intensa,cabeça leve,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,sudorese intensa,cansaço incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,sudorese intensa,enjoo,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,sudorese intensa,fadiga incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,sudorese intensa,fraqueza súbita,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,sudorese intensa,mal-estar com tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,sudorese intensa,náusea,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,sudorese intensa,tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,sudorese intensa,vontade de vomitar,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,suor frio,cabeça leve,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,suor frio,cansaço incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,suor frio,enjoo,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,suor frio,fadiga incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,suor frio,fraqueza súbita,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,suor frio,mal-estar com tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,suor frio,náusea,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,suor frio,tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,suor frio,vontade de vomitar,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,tontura,cansaço incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,tontura,fadiga incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,tontura,fraqueza súbita,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,transpiração fria,cabeça leve,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,transpiração fria,cansaço incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,transpiração fria,enjoo,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,transpiração fria,fadiga incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,transpiração fria,fraqueza súbita,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,transpiração fria,mal-estar com tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,transpiração fria,náusea,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,transpiração fria,tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,transpiração fria,vontade de vomitar,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,vontade de vomitar,cabeça leve,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,vontade de vomitar,cansaço incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,vontade de vomitar,fadiga incomum,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,vontade de vomitar,fraqueza súbita,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,vontade de vomitar,mal-estar com tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
+sindrome_coronariana_aguda,vontade de vomitar,tontura,Síndrome Coronariana Aguda / Infarto,alto_risco,S01|S08|S15|S16
