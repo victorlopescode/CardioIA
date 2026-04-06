@@ -6,6 +6,11 @@ Este projeto faz parte da **Fase 2** da disciplina e consiste no desenvolvimento
 
 O objetivo é simular, de forma simplificada, sistemas automatizados de triagem clínica utilizados para priorizar atendimentos com base na gravidade dos sintomas.
 
+## 💻Link do vídeo no youtube
+
+Esse é o link do vídeo onde o código da Parte 2 do trabalho (Classificador básico de texto) é excecutado
+https://youtu.be/9P_L5L4ze7c
+
 ## 🛠️ Tecnologias Utilizadas
 
 - Python 3
