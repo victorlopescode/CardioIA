@@ -10,8 +10,8 @@ def processar_diagnostico(caminho_txt, caminho_csv):
         leitor = csv.DictReader(f_csv, delimiter=',')
         for linha in leitor:
             mapa.append({
-                'termos': [linha['Sintoma 1'].lower(), linha['Sintoma 2'].lower()],
-                'doenca': linha['Doenca Associada']
+                'termos': [linha['sintoma_1'].lower(), linha['sintoma_2'].lower()],
+                'doenca': linha['doenca_associada']
             })
 
     # 2. Processa as frases
@@ -36,8 +36,7 @@ def processar_diagnostico(caminho_txt, caminho_csv):
             print(f"{i:02d}   | {resumo_frase:<60} | {sugestao}")
 
 if __name__ == "__main__":
-    # Caminhos apontando para a pasta 'assets'
-    MAPA_CSV = 'assets/mapa_conhecimento.csv'
-    FRASES_TXT = 'assets/sintomas_pacientes.txt'
+    MAPA_CSV = 'fase2/dados/mapa_pares_sintomas_doencas.csv'
+    FRASES_TXT = 'fase2/dados/frases_sintomas_2000.txt'
     
     processar_diagnostico(FRASES_TXT, MAPA_CSV)

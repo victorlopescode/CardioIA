@@ -20,27 +20,28 @@ https://youtu.be/9P_L5L4ze7c
 - Logistic Regression
 - Matplotlib + Seaborn (visualizações)
 
-## 📊 Dataset
+## 📊 Datasets
 
-- **Nome do arquivo**: `frases_risco.csv`
-- **Quantidade de frases**: 60
-- **Balanceamento**: 30 frases de "alto risco" + 30 frases de "baixo risco"
-- As frases simulam sintomas cardiológicos graves e leves do dia a dia.
+**Analisador (`analisador_cardio.py`):**
+- `dados/mapa_pares_sintomas_doencas.csv` — mapa de sintomas e doenças associadas
+- `dados/frases_sintomas_2000.txt` — 2.000 frases sintéticas de pacientes
+
+**Classificador (`classificador_risco.ipynb`):**
+- `dados/base_rotulada_risco_15000.csv` — 15.000 frases rotuladas como `alto_risco` ou `baixo_risco`
+- Balanceamento: 7.500 por classe
 
 ## 📈 Resultados Obtidos
 
-- **Acurácia no conjunto de teste**: **100%**
-- **Precisão, Recall e F1-score**: 1.00 para ambas as classes
-- **Desempenho em frases novas**: Excelente generalização
-  - Frases graves → Probabilidade de alto risco entre 66% e 80%
-  - Frases leves → Probabilidade de alto risco entre 23% e 33%
+- **Modelo**: Logistic Regression + TF-IDF (até 500 termos)
+- **Divisão**: 12.000 treino / 3.000 teste (80/20, estratificado)
+- **Generalização**: boa discriminação entre sintomas graves e leves em frases novas
 
-O modelo conseguiu identificar corretamente padrões importantes, como:
-- Palavras associadas a alto risco: "dor forte", "falta de ar", "suor frio", "palpitações", "tontura"
-- Palavras associadas a baixo risco: "leve", "dorzinha", "incômodo", "cansaço normal"
-
-## 📁 Estrutura do Repositório
-classificador-risco-cardio/ 
-├── frases_risco.csv
+## 📁 Estrutura da Fase 2
+fase2/
+├── analisador_cardio.py
 ├── classificador_risco.ipynb
-└── README.md
+├── README.md
+└── dados/
+    ├── mapa_pares_sintomas_doencas.csv
+    ├── frases_sintomas_2000.txt
+    └── base_rotulada_risco_15000.csv
