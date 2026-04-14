@@ -1,6 +1,63 @@
 # CardioIA
 Projeto Acadêmico que simula o ecossistema de uma cardiologia moderna
 
+---
+
+## Interface Web Interativa (Fase 2)
+
+O projeto conta com uma **interface web** desenvolvida com Streamlit que combina os dois métodos da Fase 2 em uma aplicação visual acessível pelo navegador.
+
+### Como executar
+
+**1. Instale as dependências:**
+```bash
+pip install -r requirements.txt
+```
+
+**2. Inicie a aplicação:**
+```bash
+streamlit run fase2/app.py
+```
+
+**3. Acesse no navegador:** `http://localhost:8501`
+
+### O que a interface faz
+
+- O usuário descreve os sintomas em linguagem natural
+- **Análise por Regras Clínicas**: busca correspondência em um mapa de 1.168 pares sintoma–doença e sugere a hipótese diagnóstica
+- **Modelo de Machine Learning**: classifica o risco como `alto_risco` ou `baixo_risco` usando TF-IDF + Regressão Logística (treinado em 15.000 frases), exibindo a probabilidade com barra visual
+- **Consenso**: combina os dois resultados e exibe uma recomendação de conduta
+
+> ⚠️ Esta interface é exclusivamente educacional e não substitui diagnóstico médico profissional.
+
+---
+
+## Estrutura do Repositório
+
+```
+CardioIA/
+├── requirements.txt
+├── README.md
+├── fase1/
+│   └── dados/
+│       ├── heart.csv                    # Dataset UCI Heart Disease (1.025 registros)
+│       ├── ecg_dataset_link.txt         # Link para imagens de ECG (300 imagens)
+│       └── artigos/
+│           ├── estrategia_farmaco_invasiva.txt
+│           └── revisao_sistematica_sbc.txt
+└── fase2/
+    ├── app.py                           # Interface web (Streamlit)
+    ├── analisador_cardio.py             # Analisador por regras (linha de comando)
+    ├── classificador_risco.ipynb        # Notebook do classificador ML
+    ├── README.md
+    └── dados/
+        ├── mapa_pares_sintomas_doencas.csv   # 1.168 pares sintoma–doença
+        ├── frases_sintomas_2000.txt          # 2.000 frases sintéticas de pacientes
+        └── base_rotulada_risco_15000.csv     # 15.000 frases rotuladas (ML)
+```
+
+---
+
 # Projeto de Inteligência Artificial voltado à Saúde 🩺
 ## Parte 1 - Análise de Dados Numéricos (IoT)
 
